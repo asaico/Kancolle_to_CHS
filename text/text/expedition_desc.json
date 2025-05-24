@@ -6,5 +6,201 @@
 	"隻以上": "艘以上",
 	"隻遠征": "艘远征",
 	
+"expedition_code": "S1",
+	"本名字同33": "前卫支援任务",
+
+	"expedition_code": "S2",
+	"本名字同34": "舰队决战支援任务",
+
+	"expedition_code": "01",
+	"練習航海": "练习航海",
+
+	"expedition_code": "02",
+	"長距離練習航海": "长距离练习航海",
+
+	"expedition_code": "03",
+	"警備任務": "警备任务",
+
+	"expedition_code": "04",
+	"対潜警戒任務": "对潜警戒任务",
+
+	"expedition_code": "05",
+	"海上護衛任務": "海上护航任务",
+
+	"expedition_code": "06",
+	"防空射撃演習": "防空射击演习",
+
+	"expedition_code": "07",
+	"観艦式予行": "观舰式预演",
+
+	"expedition_code": "08",
+	"観艦式": "观舰式",
+
+	"expedition_code": "A1",
+	"兵站強化任務": "后勤强化任务",
+
+	"expedition_code": "A2",
+	"海峡警備行動": "海峡警备行动",
+
+	"expedition_code": "A3",
+	"長時間対潜警戒": "长时间对潜警戒",
+
+	"expedition_code": "A4",
+	"南西方面連絡線哨戒": "西南方面联络线哨戒",
+
+	"expedition_code": "A5",
+	"小笠原沖哨戒線": "小笠原海上哨戒线",
+
+	"expedition_code": "A6",
+	"小笠原沖戦闘哨戒": "小笠原海上战斗哨戒",
+
+	"expedition_code": "09",
+	"タンカー護衛任務": "油轮护航任务",
+
+	"expedition_code": "10",
+	"強行偵察任務": "强行侦察任务",
+
+	"expedition_code": "11",
+	"ボーキサイト輸送任務": "铝土矿运输任务",
+
+	"expedition_code": "12",
+	"資源輸送任務": "资源运输任务",
+
+	"expedition_code": "13",
+	"鼠輸送作戦": "鼠运输作战",
+
+	"expedition_code": "14",
+	"包囲陸戦隊撤収作戦": "包围陆战队撤收作战",
+
+	"expedition_code": "15",
+	"囮機動部隊支援作戦": "诱敌机动部队支援作战",
+
+	"expedition_code": "16",
+	"艦隊決戦援護作戦": "舰队决战掩护作战",
+	
+	"expedition_code": "B1",
+	"南西方面航空偵察作戦": "西南方面航空侦察作战",
+
+	"expedition_code": "B2",
+	"敵泊地強襲反撃作戦": "敌泊地强袭反击作战",
+
+	"expedition_code": "B3",
+	"南西諸島離島哨戒作戦": "西南诸岛离岛哨戒作战",
+
+	"expedition_code": "B4",
+	"南西諸島離島防衛作戦": "西南诸岛离岛防卫作战",
+
+	"expedition_code": "B5",
+	"南西諸島捜索撃滅戦": "西南诸岛搜索歼灭战",
+
+	"expedition_code": "B6",
+	"精鋭水雷戦隊夜襲": "精锐水雷战队夜袭",
+
+	"expedition_code": "17",
+	"敵地偵察作戦": "敌地侦察作战",
+
+	"expedition_code": "18",
+	"航空機輸送作戦": "航空机运输作战",
+
+	"expedition_code": "19",
+	"北号作戦": "北号作战",
+
+	"expedition_code": "20",
+	"潜水艦哨戒任務": "潜艇哨戒任务",
+
+	"expedition_code": "21",
+	"北方鼠輸送作戦": "北方鼠运输作战",
+
+	"expedition_code": "22",
+	"艦隊演習": "舰队演习",
+
+	"expedition_code": "23",
+	"航空戦艦運用演習": "航空战舰运用演习",
+
+	"expedition_code": "24",
+	"北方航路海上護衛": "北方航路海上护卫",
+
+	"expedition_code": "25",
+	"通商破壊作戦": "通商破坏作战",
+
+	"expedition_code": "26",
+	"敵母港空襲作戦": "敌母港空袭作战",
+
+	"expedition_code": "27",
+	"潜水艦通商破壊作戦": "潜水舰通商破坏作战",
+
+	"expedition_code": "28",
+	"西方海域封鎖作戦": "西方海域封锁作战",
+
+	"expedition_code": "29",
+	"潜水艦派遣演習": "潜艇派遣演习",
+
+	"expedition_code": "30",
+	"潜水艦派遣作戦": "潜艇派遣作战",
+
+	"expedition_code": "31",
+	"海外艦との接触": "海外舰接触",
+
+	"expedition_code": "32",
+	"遠洋練習航海": "远洋练习航海",
+
+	"expedition_code": "D1",
+	"西方海域偵察作戦": "西方海域侦察作战",
+
+	"expedition_code": "D2",
+	"西方潜水艦作戦": "西方潜艇作战",
+
+	"expedition_code": "D3",
+	"欧州方面友軍との接触": "与欧洲方面友军接触",
+
+	"expedition_code": "33",
+	"前衛支援任務": "前卫支援任务",
+
+	"expedition_code": "34",
+	"艦隊決戦支援任務": "舰队决战支援任务",
+
+	"expedition_code": "35",
+	"MO作戦": "MO作战",
+
+	"expedition_code": "36",
+	"水上機基地建設": "水上机基地建设",
+
+	"expedition_code": "37",
+	"東京急行": "东京急行",
+
+	"expedition_code": "38",
+	"東京急行(弐)": "东京急行(二)",
+
+	"expedition_code": "39",
+	"遠洋潜水艦作戦": "远洋潜艇作战",
+
+	"expedition_code": "40",
+	"水上機前線輸送": "水上机前线运输",
+
+	"expedition_code": "E1",
+	"ラバウル方面艦隊進出": "拉包尔方面舰队进发",
+
+	"expedition_code": "E2",
+	"強行鼠輸送作戦": "强行鼠运输作战",
+
+	"expedition_code": "41",
+	"ブルネイ泊地沖哨戒": "文莱泊地海上哨戒",
+
+	"expedition_code": "42",
+	"ミ船団護衛(一号船団)": "MI船队护航(一号船队)",
+
+	"expedition_code": "43",
+	"ミ船団護衛(二号船団)": "MI船队护航(二号船队)",
+
+	"expedition_code": "44",
+	"航空装備輸送任務": "航空装备运输任务",
+
+	"expedition_code": "45",
+	"ボーキサイト船団護衛": "铝土矿船队护卫",
+
+	"expedition_code": "46",
+	"南西海域戦闘哨戒": "西南海域战斗哨戒",
+
+
 	"dummy": "forNoComma"
 }
