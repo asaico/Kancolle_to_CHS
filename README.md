@@ -1,5 +1,6 @@
-![砍口垒汉化计划封面](https://github.com/user-attachments/assets/5efe1d6f-6d6d-4fe3-abfb-2b0ace03b3b2)
+![5 母港](https://github.com/user-attachments/assets/6e607496-1ff5-4305-b1d2-a1918462e651)
 # 本项目的内容
+
 通过魔改将舰娘（艦隊これくしょん -艦これ-）的游戏内容汉化成简体中文。
 
 # 使用方法简介
