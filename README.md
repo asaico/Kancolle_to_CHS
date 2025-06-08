@@ -1,8 +1,7 @@
-![5 母港](https://github.com/user-attachments/assets/6e607496-1ff5-4305-b1d2-a1918462e651)
+![干贝厨_Shiori 拷贝](https://github.com/user-attachments/assets/ee050bda-1371-42e7-a480-b25ea45015a8)
 # 本项目的内容
-
 通过魔改将舰娘（艦隊これくしょん -艦これ-）的游戏内容汉化成简体中文。
-
+![5 母港](https://github.com/user-attachments/assets/6e607496-1ff5-4305-b1d2-a1918462e651)
 # 使用方法简介
 使用通用的缓存魔改方案，以.hack的形式整理图片资源，可以使用ACGPOWER、岛风GO、kanxy等支持.hack魔改的软件进行魔改。  
 不同软件中缓存资源的目录可能会不一样，建议单独把kcs和kcs2文件夹复制替换到相应软件的cache文件夹中的同名文件夹。  
@@ -24,6 +23,7 @@
 主翻译：泉浅漪  
 主美术：hengnio  
 其他美术：夜魔司暮  
+首席画师：干贝厨_Shiori
 
 特别鸣谢  
 技术支持：_ゆめみ
