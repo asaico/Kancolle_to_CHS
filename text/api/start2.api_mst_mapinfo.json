@@ -1,0 +1,218 @@
+[
+  {
+    "api_maparea_id": 1,
+    "api_no": 1,
+    "api_opetext": "近海警备",
+    "api_infotext": "开始出动，<br>执行镇守府正面近海警备任务！​"
+  },
+  {
+    "api_maparea_id": 1,
+    "api_no": 2,
+    "api_opetext": "西南诸岛近海警备",
+    "api_infotext": "锁定并迎击逼近西南诸岛海域的<br>敌前卫舰队！​"
+  },
+  {
+    "api_maparea_id": 1,
+    "api_no": 3,
+    "api_opetext": "海上护航作战",
+    "api_infotext": "防卫制油所地带沿岸的<br>海上运输线！"
+  },
+  {
+    "api_maparea_id": 1,
+    "api_no": 4,
+    "api_opetext": "南1号作战",
+    "api_infotext": "锁定并全力出击，歼灭西南诸岛<br>防卫线上的敌入侵舰队！"
+  },
+  {
+    "api_maparea_id": 1,
+    "api_no": 5,
+    "api_opetext": "镇守府近海反潜哨戒",
+    "api_infotext": "尽可能编成小型编队的反潜哨戒<br>部队，对出没于镇守府近海的敌方<br>潜艇进行搜索。将其捕捉并加以<br>压制，确保近海航行的安全！"
+  },
+  {
+    "api_maparea_id": 1,
+    "api_no": 6,
+    "api_opetext": "运输船队护航作战",
+    "api_infotext": "编成以具备优秀反潜及防空能力的<br>舰艇为核心战力的舰队，<br>担任运输船队航路的护航任务！"
+  },
+  {
+    "api_maparea_id": 2,
+    "api_no": 1,
+    "api_opetext": "西南诸岛哨戒",
+    "api_infotext": "向南西诸岛方面派遣舰队！<br>在该海域实施警戒，排除入侵<br>该水域的敌军，确保西南航路的<br>安全！"
+  },
+  {
+    "api_maparea_id": 2,
+    "api_no": 2,
+    "api_opetext": "柳作战",
+    "api_infotext": "将舰队派遣至巴士海峡！<br>确保该地区的制海权，保障<br>从南方资源输送的安全，<br>强化防御体系！"
+  },
+  {
+    "api_maparea_id": 2,
+    "api_no": 3,
+    "api_opetext": "奥廖尔哨戒",
+    "api_infotext": "向奥廖尔海进军，在该海域进行<br>警戒。排除敌方商路破坏舰队，<br>努力保卫我方海上运输线路！"
+  },
+  {
+    "api_maparea_id": 2,
+    "api_no": 4,
+    "api_opetext": "A号舰队决战",
+    "api_infotext": "迎击来袭冲之岛海域的强大敌方<br>机动部队。舰队全力出击，<br>将其捕捉并彻底歼灭！"
+  },
+  {
+    "api_maparea_id": 2,
+    "api_no": 5,
+    "api_opetext": "冲之岛近海战斗哨戒",
+    "api_infotext": "据报，敌舰队有接近该方向的<br>动向。请编成以巡洋舰为核心的<br>警戒部队，探明敌舰队的动向。"
+  },
+  {
+    "api_maparea_id": 3,
+    "api_no": 1,
+    "api_opetext": "莫雷海哨戒",
+    "api_infotext": "将舰队派遣至北方海域，<br>对莫雷海进行巡逻！"
+  },
+  {
+    "api_maparea_id": 3,
+    "api_no": 2,
+    "api_opetext": "基斯岛撤退作战",
+    "api_infotext": "以驱逐舰为主的高速舰队突入<br>被敌人包围的北方海域基斯岛！<br>务必安全回收守备队！"
+  },
+  {
+    "api_maparea_id": 3,
+    "api_no": 3,
+    "api_opetext": "挺进阿尔冯西诺方面",
+    "api_infotext": "以包含2艘以上空母的空母机动<br>部队等强大舰队向北方海域进发。<br>利用该战力果断实施对敌情的<br>强行侦察！"
+  },
+  {
+    "api_maparea_id": 3,
+    "api_no": 4,
+    "api_opetext": "北方海域舰队决战",
+    "api_infotext": "在北方海域深处发现敌方舰队的<br>大规模泊地！动用我方舰队的<br>全部力量，将其彻底歼灭！"
+  },
+  {
+    "api_maparea_id": 3,
+    "api_no": 5,
+    "api_opetext": "北方海域战斗哨戒",
+    "api_infotext": "北方海域有敌方增援行动的迹象。<br>派遣中规模的水上打击部队，<br>捕捉敌方增援力量并将其歼灭！"
+  },
+  {
+    "api_maparea_id": 4,
+    "api_no": 1,
+    "api_opetext": "詹姆岛攻略作战",
+    "api_infotext": "作为西方作战的第一阶段，<br>将舰队派遣至詹姆岛进行攻略！<br>执行作战计划！<br>（同时要严格进行反潜哨戒）"
+  },
+  {
+    "api_maparea_id": 4,
+    "api_no": 2,
+    "api_opetext": "咖喱洋压制战",
+    "api_infotext": "进行咖喱洋的制压作战。<br>在确保该地区资源地带的同时，<br>使咖喱半岛水域的敌方舰队<br>失去战斗力！"
+  },
+  {
+    "api_maparea_id": 4,
+    "api_no": 3,
+    "api_opetext": "里兰卡岛空袭",
+    "api_infotext": "编成包含空母的舰队，<br>对里兰卡岛敌方母港的敌舰队<br>发起攻击。舰队，出击！"
+  },
+  {
+    "api_maparea_id": 4,
+    "api_no": 4,
+    "api_opetext": "卡斯加达玛近海海战",
+    "api_infotext": "突破咖喱洋西部的敌方警戒线，<br>深入卡斯加达马岛近海域，捕捉<br>并歼灭敌东方舰队的中枢部队！"
+  },
+  {
+    "api_maparea_id": 4,
+    "api_no": 5,
+    "api_opetext": "深海东洋舰队削弱作战",
+    "api_infotext": "在我方舰队的沉重打击下，<br>敌东方舰队正在里兰卡岛港湾<br>重新集结。编成游击部队，歼灭<br>敌方增援力量！"
+  },
+  {
+    "api_maparea_id": 5,
+    "api_no": 1,
+    "api_opetext": "南方海域挺进作战",
+    "api_infotext": "编成训练有素的水上打击部队，<br>向南方海域进军！舰队，<br>向南方进发！"
+  },
+  {
+    "api_maparea_id": 5,
+    "api_no": 2,
+    "api_opetext": "珊瑚诸岛近海海战",
+    "api_infotext": "实施MO作战。<br>展开空母机动部队，为作战提供<br>支援！搜索敌方机动部队，<br>并将其歼灭！"
+  },
+  {
+    "api_maparea_id": 5,
+    "api_no": 3,
+    "api_opetext": "第一次沙门近海海战",
+    "api_infotext": "突入铁底海峡，由我方<br>水上打击部队对敌方泊地发起<br>夜战突袭，打击敌方后方的<br>运输舰！"
+  },
+  {
+    "api_maparea_id": 5,
+    "api_no": 4,
+    "api_opetext": "东京急行",
+    "api_infotext": "向南方海域投入精锐部队，<br>果断实施鼠运输作战，如有可能，<br>同时歼灭该方向的敌方舰队！"
+  },
+  {
+    "api_maparea_id": 5,
+    "api_no": 5,
+    "api_opetext": "第二次沙门海战",
+    "api_infotext": "已确认有敌方精锐机动部队<br>接近南方海域。出动空母<br>机动部队，迎击敌军！"
+  },
+  {
+    "api_maparea_id": 6,
+    "api_no": 1,
+    "api_opetext": "潜艇作战",
+    "api_infotext": "编成精锐的潜艇舰队，<br>挺进中部海域警戒线。发现<br>敌方舰队后，对其进行削弱歼灭！"
+  },
+  {
+    "api_maparea_id": 6,
+    "api_no": 2,
+    "api_opetext": "MS诸岛防御战",
+    "api_infotext": "将舰队部署在MS诸岛近海前方，<br>捕捉正在接近该诸岛的敌方攻略<br>部队，全力将其歼灭！"
+  },
+  {
+    "api_maparea_id": 6,
+    "api_no": 3,
+    "api_opetext": "K作战",
+    "api_infotext": "派遣装备有飞艇或水上侦察机的<br>水上机母舰、轻巡和驱逐舰组成的<br>舰队前往该方面，执行航空侦察<br>「K作战」！"
+  },
+  {
+    "api_maparea_id": 6,
+    "api_no": 4,
+    "api_opetext": "离岛再攻略作战",
+    "api_infotext": "发动以水雷战队为核心或拥有<br>最多两艘航母的机动部队进行的<br>中部海域离岛攻略作战！<br>舰队，出击！"
+  },
+  {
+    "api_maparea_id": 6,
+    "api_no": 5,
+    "api_opetext": "空母机动部队迎击战",
+    "api_infotext": "中部海域最前线有强大的敌方<br>机动部队来袭！与部署在该战域的<br>基地航空队协同作战，<br>迎击并歼灭敌方舰队！"
+  },
+  {
+    "api_maparea_id": 7,
+    "api_no": 1,
+    "api_opetext": "文莱泊地近海哨戒",
+    "api_infotext": "在燃料资源丰富的文莱泊地近海，<br>发现敌方潜艇活动猖獗。<br>请对该区域进行搜索并加以压制，<br>确保作为重要据点的该泊地周边<br>的安全！"
+  },
+  {
+    "api_maparea_id": 7,
+    "api_no": 2,
+    "api_opetext": "西里伯斯海战斗哨戒",
+    "api_infotext": "在我方机动部队出击据点的<br>塔威塔威泊地近海，已确认有敌方<br>战力活动猖獗。请严格实施警戒，<br>并制压这些敌对力量！"
+  },
+  {
+    "api_maparea_id": 7,
+    "api_no": 3,
+    "api_opetext": "穿越马六甲海峡",
+    "api_infotext": "以精锐的重巡和驱逐舰为核心<br>组成的小舰队突破马六甲海峡。<br>击破槟岛近海的敌方战力<br>并继续前进！"
+  },
+  {
+    "api_maparea_id": 7,
+    "api_no": 4,
+    "api_opetext": "HI船队海上护航作战",
+    "api_infotext": "从南方向本土方向输送重要资源的<br>HI船队。发动海上护航作战，<br>以保护该船队免受敌方潜艇及<br>机动部队的威胁！起锚出发！"
+  },
+  {
+    "api_maparea_id": 7,
+    "api_no": 5,
+    "api_opetext": "苏腊巴亚海战、巴达维亚海战",
+    "api_infotext": "在爪哇岛东部登陆攻略部队！<br>以强有力的舰队在苏腊巴亚近海<br>击破敌方迎击力量，并追击<br>歼灭残存的敌方舰队！"
+  }
+]

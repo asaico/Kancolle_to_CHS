@@ -1,0 +1,56 @@
+[
+   {
+    "api_id": 1,
+    "api_name": "睦月",
+    "api_getmes": "我是睦月！打起精神出发咯—！"
+  },
+   {
+    "api_id": 2,
+    "api_name": "如月",
+    "api_getmes": "我叫如月。请把我留在您的身边吧。"
+  },
+   {
+    "api_id": 6,
+    "api_name": "长月",
+    "api_getmes": "我是长月。<br>可别小瞧驱逐舰啊。也是能派上用场的。"
+  },
+   {
+    "api_id": 7,
+    "api_name": "三日月",
+    "api_getmes": "您就是司令官呀。我是三日月。还请手下留情。"
+  },
+   {
+    "api_id": 9,
+    "api_name": "吹雪",
+    "api_getmes": "初次见面我是吹雪。请多多关照。"
+  },
+   {
+    "api_id": 10,
+    "api_name": "白雪",
+    "api_getmes": "我是白雪。请多关照。"
+  },
+   {
+    "api_id": 11,
+    "api_name": "深雪",
+    "api_getmes": "我是白雪。请多关照。"
+  },
+  {
+    "api_id": 46,
+    "api_name": "五月雨",
+    "api_getmes": "我叫五月雨！<br>请多指教。护航任务就交给我吧！"
+  },
+  {
+    "api_id": 64,
+    "api_name": "足柄",
+    "api_getmes": "我是足柄哦。挺擅长炮雷击战的。<br>嘿嘿，请多关照啦。"
+  },
+  {
+    "api_id": 100,
+    "api_name": "多摩",
+    "api_getmes": "轻巡，多摩。我才不是猫哦喵。"
+  }
+
+
+
+
+]
