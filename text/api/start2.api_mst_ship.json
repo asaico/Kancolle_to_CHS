@@ -2,169 +2,1556 @@
    {
     "api_id": 1,
     "api_name": "睦月",
-    "api_getmes": "我是睦月！打起精神出发咯—！"
+    "api_getmes": "我是睦月。<br>精神饱满地，出发咯——！"
   },
    {
     "api_id": 2,
     "api_name": "如月",
-    "api_getmes": "我叫如月。请把我留在您的身边吧。"
+    "api_getmes": "我叫如月。<br>请把我留在您身边哦。"
   },
    {
     "api_id": 6,
     "api_name": "长月",
-    "api_getmes": "我是长月。<br>可别小瞧驱逐舰啊。也是能派上用场的。"
+    "api_getmes": "我是长月。<br>别小看驱逐舰哦。我肯定能派上用场的。"
   },
    {
     "api_id": 7,
     "api_name": "三日月",
-    "api_getmes": "您就是司令官呀。我是三日月。还请手下留情。"
+    "api_getmes": "您是司令官吧。我是三日月。<br>请多多指教。"
   },
    {
     "api_id": 9,
     "api_name": "吹雪",
-    "api_getmes": "初次见面我是吹雪。请多多关照。"
+    "api_getmes": "初次见面，我是吹雪。<br>请多关照。"
   },
    {
     "api_id": 10,
     "api_name": "白雪",
-    "api_getmes": "我是白雪。请多关照。"
+    "api_getmes": "我是白雪。<br>请多关照。"
   },
    {
     "api_id": 11,
     "api_name": "深雪",
-    "api_getmes": "我是白雪。请多关照。"
+    "api_getmes": "我是深雪！<br>请多关照！"
   },
    {
     "api_id": 12,
     "api_name": "矶波",
-    "api_getmes": "那，那个……我叫「矶波」。请多关照。"
+    "api_getmes": "啊，那个……我叫矶波。<br>请多关照。"
   },
    {
     "api_id": 13,
     "api_name": "绫波",
-    "api_getmes": "您好。我是特型驱逐舰，「绫波」。"
+    "api_getmes": "您好。<br>我是特型驱逐舰，绫波。"
   },
    {
     "api_id": 14,
     "api_name": "敷波",
-    "api_getmes": "我的名字是敷波。今后多多关照。"
+    "api_getmes": "我叫敷波。<br>以后请多关照。"
   },
    {
     "api_id": 15,
     "api_name": "曙",
-    "api_getmes": "特型驱逐舰「曙」。<br>我说，别看我！你这臭提督！"
+    "api_getmes": "我是特型驱逐舰“曙”！<br>喂，别看我啊！你这臭提督！"
   },
    {
     "api_id": 16,
     "api_name": "潮",
-    "api_getmes": "特型驱逐舰……绫波级的「潮」。我可以退下了吗……。"
+    "api_getmes": "特型驱逐舰……绫波级“潮”。<br>我可以退下了吗……"
   },
    {
     "api_id": 17,
     "api_name": "阳炎",
-    "api_getmes": "终于见到你了！我是阳炎。请多关照！"
+    "api_getmes": "终于见到你啦！我是阳炎。<br>请多关照！"
   },
    {
     "api_id": 18,
     "api_name": "不知火",
-    "api_getmes": "我是不知火。请多加指导和鞭策。"
+    "api_getmes": "我是不知火。<br>请多多指教，多多鞭策。"
   },
    {
     "api_id": 19,
     "api_name": "黑潮",
-    "api_getmes": "咱是黑潮，多关照啦。"
+    "api_getmes": "我是黑潮，请多指教。"
   },
    {
     "api_id": 20,
     "api_name": "雪风",
-    "api_getmes": "我是阳炎级驱逐舰8号舰，雪风。请多多关照！"
+    "api_getmes": "我是阳炎级驱逐舰8号舰，雪风。<br>请多多关照！"
   },
    {
     "api_id": 21,
     "api_name": "长良",
-    "api_getmes": "我是轻巡，长良。请多关照！"
+    "api_getmes": "我是轻巡，长良。<br>请多关照！"
   },
    {
     "api_id": 22,
     "api_name": "五十铃",
-    "api_getmes": "我是五十铃。水雷战队的指挥就交给我吧。<br>我会全力引导提督走向胜利。请多关照。"
+    "api_getmes": "我是五十铃。指挥水雷战队就交给我吧。<br>我会尽全力带领提督走向胜利。请多关照哦。"
   },
    {
     "api_id": 23,
     "api_name": "由良",
-    "api_getmes": "我是长良级轻巡洋舰四号舰「由良」。请多多指教！"
+    "api_getmes": "长良级轻巡四号舰“由良”。<br>请多多关照！"
   },
    {
     "api_id": 24,
     "api_name": "大井",
-    "api_getmes": "你好呀。我是轻巡洋舰，大井。请多多关照喔。"
+    "api_getmes": "您好~我是轻巡洋舰，大井。<br>请多多关照呢。"
   },
    {
     "api_id": 25,
     "api_name": "北上",
-    "api_getmes": "我是轻巡，北上。嘛，请多关照咯。"
+    "api_getmes": "我是轻巡，北上。<br>嘛，请多关照。"
   },
    {
     "api_id": 26,
     "api_name": "扶桑",
-    "api_getmes": "我是扶桑级超弩级战舰中的姐姐，扶桑。<br>我和妹妹山城，都请多多关照。"
+    "api_getmes": "扶桑级超无畏战列舰，姐姐扶桑。<br>和妹妹山城一同，多多关照。"
   },
    {
     "api_id": 27,
     "api_name": "山城",
-    "api_getmes": "我是扶桑级战舰姐妹中的妹妹，山城。<br>那个，你看到扶桑姐姐了吗？"
+    "api_getmes": "扶桑级战列舰姐妹，妹妹山城。<br>那个，您看见扶桑姐姐了吗？"
   },
-  {
+   {
+    "api_id": 28,
+    "api_name": "皋月",
+    "api_getmes": "我是皋月！<br>请多关照！"
+  },
+   {
+    "api_id": 29,
+    "api_name": "文月",
+    "api_getmes": "我叫文月。<br>请多关照哦~"
+  },
+   {
+    "api_id": 30,
+    "api_name": "菊月",
+    "api_getmes": "我是菊月，我们一起走吧。"
+  },
+   {
+    "api_id": 31,
+    "api_name": "望月",
+    "api_getmes": "嗯？啊，我是望月~"
+  },
+   {
+    "api_id": 32,
+    "api_name": "初雪",
+    "api_getmes": "我是……初雪……请多关照。"
+  },
+   {
+    "api_id": 33,
+    "api_name": "丛云",
+    "api_getmes": "你就是司令官啊。<br>嘛，你就好好努力吧！"
+  },
+   {
+    "api_id": 34,
+    "api_name": "晓",
+    "api_getmes": "我是晓。<br>请把我当成一个独当一面的淑女哦！"
+  },
+   {
+    "api_id": 35,
+    "api_name": "响",
+    "api_getmes": "我是响。<br>因活跃的表现，也有不死鸟的别名哦。"
+  },
+   {
+    "api_id": 36,
+    "api_name": "雷",
+    "api_getmes": "我是雷！不是闪电哦！<br>这点也请你多多关照啦！"
+  },
+   {
+    "api_id": 37,
+    "api_name": "电",
+    "api_getmes": "我是电。<br>请多多关照。"
+  },
+   {
+    "api_id": 38,
+    "api_name": "初春",
+    "api_getmes": "妾身便是初春。<br>请多多关照。"
+  },
+   {
+    "api_id": 39,
+    "api_name": "子日",
+    "api_getmes": "初次见面，我是子日！<br>我的舰名，不难读吧？是吧？"
+  },
+   {
+    "api_id": 40,
+    "api_name": "若叶",
+    "api_getmes": "我是驱逐舰，若叶。"
+  },
+   {
+    "api_id": 41,
+    "api_name": "初霜",
+    "api_getmes": "我是初春级四号舰，初霜。<br>大家，请多关照！"
+  },
+   {
+    "api_id": 42,
+    "api_name": "白露",
+    "api_getmes": "我是白露级驱逐舰一号舰，“白露”！<br>是的，是一号舰！"
+  },
+   {
     "api_id": 43,
     "api_name": "时雨",
-    "api_getmes": "我是白露级驱逐舰，「时雨」。今后请多关照了。"
+    "api_getmes": "我是白露级驱逐舰，“时雨”。<br>以后请多关照哦。"
   },
-  {
+   {
+    "api_id": 44,
+    "api_name": "村雨",
+    "api_getmes": "来了来了！我是白露级驱逐舰“村雨”哦。<br>各位，请多关照！"
+  },
+   {
+    "api_id": 45,
+    "api_name": "夕立",
+    "api_getmes": "你好，我是白露级驱逐舰“夕立”哦。<br>请多关照！"
+  },
+   {
     "api_id": 46,
     "api_name": "五月雨",
-    "api_getmes": "我叫五月雨！<br>请多指教。护航任务就交给我吧！"
+    "api_getmes": "我叫五月雨！请多关照。<br>护卫任务就交给我吧！"
   },
-  {
+   {
+    "api_id": 47,
+    "api_name": "凉风",
+    "api_getmes": "你好！我是凉风。<br>我加入舰队的话，可是能抵百人的哦！"
+  },
+   {
+    "api_id": 48,
+    "api_name": "霰",
+    "api_getmes": "我是霰……<br>我不会说“嗯恰”之类的话……请多关照……"
+  },
+   {
+    "api_id": 49,
+    "api_name": "霞",
+    "api_getmes": "我是霞。<br>我会全力以赴的。跟上我。"
+  },
+   {
+    "api_id": 50,
+    "api_name": "岛风",
+    "api_getmes": "我是驱逐舰岛风。速度谁也比不上我。<br>所谓疾如岛风！"
+  },
+   {
+    "api_id": 51,
+    "api_name": "天龙",
+    "api_getmes": "我叫天龙。<br>呵呵呵，害怕了吗？"
+  },
+   {
+    "api_id": 52,
+    "api_name": "龙田",
+    "api_getmes": "初次见面，我是龙田。<br>小天龙没给您添麻烦吧~"
+  },
+   {
+    "api_id": 53,
+    "api_name": "名取",
+    "api_getmes": "我叫名取。<br>为了不给您添麻烦，我、我会努力的。"
+  },
+   {
+    "api_id": 54,
+    "api_name": "川内",
+    "api_getmes": "川内，登场。<br>夜战的话就交给我吧！"
+  },
+   {
+    "api_id": 55,
+    "api_name": "神通",
+    "api_getmes": "那个……我是轻巡洋舰，神通。<br>请多多关照……"
+  },
+   {
+    "api_id": 56,
+    "api_name": "那珂",
+    "api_getmes": "我舰队的偶像，小那珂哦~！<br>请多关照啦！"
+  },
+   {
+    "api_id": 59,
+    "api_name": "古鹰",
+    "api_getmes": "我叫古鹰。<br>如果能让您多了解重巡洋舰的优点，我会很高兴的。"
+  },
+   {
+    "api_id": 60,
+    "api_name": "加古",
+    "api_getmes": "古鹰级重巡的2号舰，加古，请多关照啦~！"
+  },
+   {
+    "api_id": 61,
+    "api_name": "青叶",
+    "api_getmes": "诚惶诚恐，我是青叶！<br>您怎么看！"
+  },
+   {
+    "api_id": 62,
+    "api_name": "妙高",
+    "api_getmes": "我是妙高级重巡洋舰，妙高。<br>我们一起努力吧。"
+  },
+   {
+    "api_id": 63,
+    "api_name": "那智",
+    "api_getmes": "你就是司令官吗。<br>我是那智。请多关照。"
+  },
+   {
     "api_id": 64,
     "api_name": "足柄",
-    "api_getmes": "我是足柄哦。挺擅长炮雷击战的。<br>嘿嘿，请多关照啦。"
+    "api_getmes": "我是足柄。我擅长炮雷击战。<br>呵呵，请多关照哦。"
   },
-  {
+   {
+    "api_id": 65,
+    "api_name": "羽黑",
+    "api_getmes": "我是羽黑。是妙高级重巡洋舰姐妹里最小的。<br>啊，那个……对不起！"
+  },
+   {
+    "api_id": 66,
+    "api_name": "高雄",
+    "api_getmes": "您好。我是高雄。<br>能遇到您这样出色的提督，真是太好了。"
+  },
+   {
+    "api_id": 67,
+    "api_name": "爱宕",
+    "api_getmes": "我是爱宕，提督，请记住我哦。"
+  },
+   {
+    "api_id": 68,
+    "api_name": "摩耶",
+    "api_getmes": "哟！我是摩耶，请多关照啊。"
+  },
+   {
+    "api_id": 69,
+    "api_name": "鸟海",
+    "api_getmes": "我是鸟海。请多关照。"
+  },
+   {
     "api_id": 70,
     "api_name": "最上",
-    "api_getmes": "我是最上。没关系，这次不会相撞了。真的哦。"
+    "api_getmes": "我是最上。<br>没关系，这次不会再撞上了。真的。"
   },
-  {
+   {
+    "api_id": 71,
+    "api_name": "利根",
+    "api_getmes": "吾乃利根！<br>吾辈加入舰队后，再也不用担心侦查了！"
+  },
+   {
+    "api_id": 72,
+    "api_name": "筑摩",
+    "api_getmes": "初次见面，我是利根级2号舰，筑摩。"
+  },
+   {
+    "api_id": 74,
+    "api_name": "祥凤",
+    "api_getmes": "我是轻空母，祥凤。<br>是的，虽然我块头偏小，但请务必把我加入提督的机动部队！"
+  },
+   {
+    "api_id": 75,
+    "api_name": "飞鹰",
+    "api_getmes": "我的名字是出云丸……不对，我是飞鹰。<br>是航空母舰哦。请多关照，提督！"
+  },
+   {
+    "api_id": 76,
+    "api_name": "龙骧",
+    "api_getmes": "我是轻空母，龙骧。外形很独特吧？<br>但我可是能不断放出舰载机的，货真价实的空母哦。<br>敬请期待吧！"
+  },
+   {
+    "api_id": 77,
+    "api_name": "伊势",
+    "api_getmes": "超无畏战列舰，伊势级1号舰，伊势。<br>前来！"
+  },
+   {
+    "api_id": 78,
+    "api_name": "金刚",
+    "api_getmes": "英国出生的归国子女金刚DE-SU。<br>请多多关照！"
+  },
+   {
+    "api_id": 79,
+    "api_name": "榛名",
+    "api_getmes": "高速战列舰，榛名，已就位。<br>你就是提督吧？请多关照。"
+  },
+   {
+    "api_id": 80,
+    "api_name": "长门",
+    "api_getmes": "我是战列舰长门。请多关照。<br>和敌方战列舰硬碰硬的话就交给我吧。"
+  },
+   {
+    "api_id": 81,
+    "api_name": "陆奥",
+    "api_getmes": "长门级战列舰2号舰陆奥。请多关照哦。<br>别玩火哦……拜托你了。"
+  },
+   {
+    "api_id": 83,
+    "api_name": "赤城",
+    "api_getmes": "我是航空母舰，赤城。<br>如果编组空母机动部队，就请交给我吧。"
+  },
+   {
+    "api_id": 84,
+    "api_name": "加贺",
+    "api_getmes": "我是航空母舰，加贺。<br>你就是我的提督吗？我姑且还是有所期待的。"
+  },
+   {
+    "api_id": 85,
+    "api_name": "雾岛",
+    "api_getmes": "麦克风音量还好吗…？测试，1，2……<br>好。初次见面，我是雾岛。"
+  },
+   {
+    "api_id": 86,
+    "api_name": "比叡",
+    "api_getmes": "金刚姐姐的妹妹，比叡。<br>我会积累经验，努力向姐姐靠近一点点。"
+  },
+   {
+    "api_id": 87,
+    "api_name": "日向",
+    "api_getmes": "你就是提督？哼。好吧。<br>我是伊势级战列舰2号舰，日向。姑且记住吧。"
+  },
+   {
+    "api_id": 89,
+    "api_name": "凤翔",
+    "api_getmes": "我是航空母舰，凤翔。<br>鄙人不才，但请多多关照。"
+  },
+   {
+    "api_id": 90,
+    "api_name": "苍龙",
+    "api_getmes": "我是航空母舰，苍龙。<br>如果编组空母机动部队，也请务必把我加进去哦！"
+  },
+   {
+    "api_id": 91,
+    "api_name": "飞龙",
+    "api_getmes": "我是航空母舰，飞龙。<br>空母战就交给我！无论何等困境我都能战斗！"
+  },
+   {
+    "api_id": 92,
+    "api_name": "隼鹰",
+    "api_getmes": "商船改装空母，隼鹰~！<br>呀哈！"
+  },
+   {
+    "api_id": 93,
+    "api_name": "胧",
+    "api_getmes": "我是绫波级驱逐舰“胧”。<br>不会输给任何人……大概……"
+  },
+   {
+    "api_id": 94,
+    "api_name": "涟",
+    "api_getmes": "我是绫波级驱逐舰“涟”，主人。<br>这个字读作“sazanami”。"
+  },
+   {
+    "api_id": 95,
+    "api_name": "朝潮",
+    "api_getmes": "我是驱逐舰，朝潮。<br>随时准备接受挑战。"
+  },
+   {
+    "api_id": 96,
+    "api_name": "大潮",
+    "api_getmes": "我是驱逐舰，大潮~！<br>小小的身体，大大的鱼雷！请交给我吧。"
+  },
+   {
     "api_id": 97,
     "api_name": "满潮",
-    "api_getmes": "我是满潮。我为什么会被分配到这种部队啊。"
+    "api_getmes": "我是满潮。<br>我为什么会被分配到这样的部队啊。"
   },
-  {
+   {
+    "api_id": 98,
+    "api_name": "荒潮",
+    "api_getmes": "哎呀。还没自我介绍呢。<br>我是荒潮。"
+  },
+   {
+    "api_id": 99,
+    "api_name": "球磨",
+    "api_getmes": "Kuma~<br>请多关照Kuma。"
+  },
+   {
     "api_id": 100,
     "api_name": "多摩",
-    "api_getmes": "轻巡，多摩。我才不是猫哦喵。"
+    "api_getmes": "我是轻巡，多摩。<br>我不是猫喵。"
   },
-    {
+   {
+    "api_id": 101,
+    "api_name": "木曾",
+    "api_getmes": "我是木曾，我会赐予你最棒的胜利。"
+  },
+   {
+    "api_id": 102,
+    "api_name": "千岁",
+    "api_getmes": "我是千岁。<br>我是日本第一艘水上机母舰哦。请多关照！"
+  },
+   {
+    "api_id": 103,
+    "api_name": "千代田",
+    "api_getmes": "我是水上机母舰，千代田。<br>姐姐千岁，没给您添麻烦吧？"
+  },
+   {
+    "api_id": 110,
+    "api_name": "翔鹤",
+    "api_getmes": "我是翔鹤级航空母舰1号舰，翔鹤。<br>为了能稍微靠近一航战、二航战的前辈们，<br>我会和瑞鹤一同努力的！"
+  },
+   {
+    "api_id": 111,
+    "api_name": "瑞鹤",
+    "api_getmes": "翔鹤级航空母舰2号舰，妹妹瑞鹤。<br>幸运空母？不是的，我只是在努力而已……<br>啦。只要有舰载机，我就不会输！"
+  },
+   {
+    "api_id": 113,
+    "api_name": "鬼怒",
+    "api_getmes": "来啦来啦！鬼怒，终于抵达了！"
+  },
+   {
+    "api_id": 114,
+    "api_name": "阿武隈",
+    "api_getmes": "你、你好，我是轻巡，阿武隈。"
+  },
+   {
+    "api_id": 115,
+    "api_name": "夕张",
+    "api_getmes": "嗨~久等啦？<br>兵装实验轻巡，夕张，抵达了！"
+  },
+   {
+    "api_id": 116,
+    "api_name": "瑞凤",
+    "api_getmes": "我是瑞凤。<br>虽然是轻空母，但如果练度提高了，也能展现出不亚于正规空母的活跃表现。<br>敬请期待。"
+  },
+   {
+    "api_id": 120,
+    "api_name": "三隈",
+    "api_getmes": "您好，我是三隈。<br>最上小姐在哪里呢？"
+  },
+   {
+    "api_id": 122,
+    "api_name": "舞风",
+    "api_getmes": "你好！我是阳炎级驱逐舰，舞风。<br>我不喜欢阴沉的气氛！"
+  },
+   {
+    "api_id": 123,
+    "api_name": "衣笠",
+    "api_getmes": "是~！衣笠小姐登场啦！<br>和青叶一起，多多关照哦！"
+  },
+   {
+    "api_id": 124,
+    "api_name": "铃谷",
+    "api_getmes": "我是铃谷！真是个热闹的舰队呢！<br>请多关照哦！"
+  },
+   {
+    "api_id": 125,
+    "api_name": "熊野",
+    "api_getmes": "您好，<br>我就是重巡，熊野！"
+  },
+   {
+    "api_id": 126,
+    "api_name": "伊168",
+    "api_getmes": "我是伊168。怎么了，很难念吗？<br>那叫我伊姆亚就好啦……请多关照哦！"
+  },
+   {
+    "api_id": 127,
+    "api_name": "伊58",
+    "api_getmes": "你好！我是伊五十八。<br>叫我苦瓜也可以哦！一点也不苦哦！"
+  },
+   {
+    "api_id": 128,
+    "api_name": "伊8",
+    "api_getmes": "Guten Tag……啊，不对，对不起……<br>请叫我“小八”(哈奇)吧。"
+  },
+   {
+    "api_id": 131,
+    "api_name": "大和",
+    "api_getmes": "大和级战列舰，一号舰，大和。<br>登场！"
+  },
+   {
+    "api_id": 132,
+    "api_name": "秋云",
+    "api_getmes": "秋云，就位！<br>提督请多关照哦！"
+  },
+   {
+    "api_id": 133,
+    "api_name": "夕云",
+    "api_getmes": "夕云级一号舰，夕云，已就位。<br>提督，您撒撒娇也没关系哦？"
+  },
+   {
+    "api_id": 134,
+    "api_name": "卷云",
+    "api_getmes": "我是夕云级驱逐舰，卷云。<br>我会向夕云姐姐学习并努力的！"
+  },
+   {
+    "api_id": 135,
+    "api_name": "长波",
+    "api_getmes": "我是夕云级驱逐舰四号舰，长波大人！<br>好出发了，上——！"
+  },
+   {
+    "api_id": 137,
+    "api_name": "阿贺野",
+    "api_getmes": "您好~！<br>我是最新锐轻巡的阿贺野~呵呵。"
+  },
+   {
+    "api_id": 138,
+    "api_name": "能代",
+    "api_getmes": "阿贺野级轻巡二号舰，能代。<br>已就位。请多关照！"
+  },
+   {
+    "api_id": 139,
+    "api_name": "矢矧",
+    "api_getmes": "轻巡矢矧，已就位。<br>提督，我们一起努力到最后吧！"
+  },
+   {
+    "api_id": 140,
+    "api_name": "酒匂",
+    "api_getmes": "Pyan♪ 阿贺野级轻巡四号舰，酒匂！<br>司令，请多关照哦！"
+  },
+   {
+    "api_id": 143,
+    "api_name": "武藏",
+    "api_getmes": "哼，看来让你久等了……<br>大和级战列舰二号舰，武藏。来了！"
+  },
+   {
+    "api_id": 153,
+    "api_name": "大凤",
+    "api_getmes": "是……我是大凤。<br>谢谢您的迎接。<br>提督……愿胜利属于您和机动部队！"
+  },
+   {
+    "api_id": 154,
+    "api_name": "香取",
+    "api_getmes": "我是练习巡洋舰，香取。<br>别担心……我会温柔地指导您的。"
+  },
+   {
+    "api_id": 155,
+    "api_name": "伊401",
+    "api_getmes": "提督，您好。我是潜特型二号舰伊401。<br>请叫我汐欧伊。"
+  },
+   {
+    "api_id": 161,
+    "api_name": "秋津丸",
+    "api_getmes": "在下，秋津丸。<br>承蒙舰队关照。"
+  },
+   {
+    "api_id": 162,
+    "api_name": "神威",
+    "api_getmes": "我叫给油舰，神威。<br>是的，我的名字来源于北海道神威岬。<br>我会尽力努力的。"
+  },
+   {
+    "api_id": 163,
+    "api_name": "丸输",
+    "api_getmes": "初次见面……丸输(Maruyu)已就位。<br>诶？没听说过……怎么会！"
+  },
+   {
+    "api_id": 164,
+    "api_name": "弥生",
+    "api_getmes": "初次见面，弥生，就位……<br>啊，不用顾虑我……没关系。"
+  },
+   {
+    "api_id": 165,
+    "api_name": "卯月",
+    "api_getmes": "太好啦！出来了PyoN！我是卯月！<br>大家叫我小卯！"
+  },
+   {
+    "api_id": 167,
+    "api_name": "矶风",
+    "api_getmes": "阳炎级驱逐舰十二号舰，矶风。<br>没关系，我会保护你的。"
+  },
+   {
     "api_id": 168,
     "api_name": "浦风",
-    "api_getmes": "咱是浦风，请多关照！"
+    "api_getmes": "我是浦风，请多关照哦！"
+  },
+   {
+    "api_id": 169,
+    "api_name": "谷风",
+    "api_getmes": "提督，我是谷风。<br>以后就请你多关照了！"
+  },
+   {
+    "api_id": 170,
+    "api_name": "滨风",
+    "api_getmes": "我是驱逐舰，滨风。<br>从现在起隶属于您的舰队。"
+  },
+   {
+    "api_id": 171,
+    "api_name": "Bismarck",
+    "api_getmes": "Guten Tag.<br>我是俾斯麦级战列舰的首舰，Bismarck。<br>给我好好记住。"
+  },
+   {
+    "api_id": 174,
+    "api_name": "Z1",
+    "api_getmes": "Guten Morgen.<br>我的名字是Leberecht Maass。<br>叫我Lebe就好…嗯。"
+  },
+   {
+    "api_id": 175,
+    "api_name": "Z3",
+    "api_getmes": "Guten Tag.<br>我是驱逐舰Max Schultz。<br>叫我Max…也可以。请多关照。"
+  },
+   {
+    "api_id": 176,
+    "api_name": "Prinz Eugen",
+    "api_getmes": "Guten Morgen！<br>我是重巡Prinz Eugen。请多关照！"
+  },
+   {
+    "api_id": 181,
+    "api_name": "天津风",
+    "api_getmes": "风向不错？<br>新一代驱逐舰的原型，<br>我，天津风该出场了。"
+  },
+   {
+    "api_id": 182,
+    "api_name": "明石",
+    "api_getmes": "我是工作舰，明石。<br>如果是轻微损伤，我可以在泊地给修理好的哦。<br>请交给我吧！"
+  },
+   {
+    "api_id": 183,
+    "api_name": "大淀",
+    "api_getmes": "提督，轻巡大淀，已加入战列。<br>舰队指挥、运营，请尽管交给我吧。"
+  },
+   {
+    "api_id": 184,
+    "api_name": "大鲸",
+    "api_getmes": "您好呀。我是潜艇母舰大鲸。<br>鄙人不才，但请多多关照。"
+  },
+   {
+    "api_id": 186,
+    "api_name": "时津风",
+    "api_getmes": "阳炎级驱逐舰十号舰。<br>时津风……要出击了。"
+  },
+   {
+    "api_id": 190,
+    "api_name": "初风",
+    "api_getmes": "我是初风，请多关照。<br>提督，我是你的第几个我呢？"
+  },
+   {
+    "api_id": 191,
+    "api_name": "伊19",
+    "api_getmes": "能遇到这么棒的提督，我很高兴呢。<br>我是伊十九。是的，叫我“伊库”也可以哦！"
+  },
+   {
+    "api_id": 299,
+    "api_name": "Scamp",
+    "api_getmes": "你就是Admiral？哼~是嘛！<br>我呀，是Gato级潜艇，Scamp。<br>我挺……能干的哦？嘛，请多关照。"
+  },
+   {
+    "api_id": 331,
+    "api_name": "天城",
+    "api_getmes": "云龙级航空母舰，天城。<br>提督，请多多关照。<br>天城，会精进努力的！"
+  },
+   {
+    "api_id": 332,
+    "api_name": "葛城",
+    "api_getmes": "云龙级航空母舰，三号舰，葛城！<br>诶？水上防空炮台？<br>才、才不是呢！提督，你在说什么啊！"
+  },
+   {
+    "api_id": 404,
+    "api_name": "云龙",
+    "api_getmes": "云龙级航空母舰，云龙，前来报到。<br>提督，请多关照哦。"
+  },
+   {
+    "api_id": 405,
+    "api_name": "春雨",
+    "api_getmes": "我是白露级驱逐舰五号舰春雨，是的。<br>运输作战就交给我吧……是的。"
+  },
+   {
+    "api_id": 409,
+    "api_name": "早霜",
+    "api_getmes": "又……来到这片海了呢。<br>夕云级驱逐舰，早霜……已就位。"
+  },
+   {
+    "api_id": 410,
+    "api_name": "清霜",
+    "api_getmes": "你好！我是夕云级的最终舰，清霜。<br>来晚了，请多关照！"
   },
    {
     "api_id": 413,
     "api_name": "朝云",
-    "api_getmes": "朝潮级驱逐舰，朝云，到任了！<br>你就是司令官……吗。<br>是么。算了。我来搞定！"
+    "api_getmes": "我是朝潮级驱逐舰，朝云，已就位！<br>你就是司令……嘛。嗯~算了。我来帮你做吧！"
   },
    {
     "api_id": 414,
     "api_name": "山云",
-    "api_getmes": "早上好～。<br>我是朝潮级驱逐舰六号舰，山云～。请多多指教～。"
+    "api_getmes": "早上好~<br>朝潮级驱逐舰六号舰，山云~<br>请多多关照~"
   },
    {
-    "api_id": 1111111,
-    "api_name": "舰娘",
-    "api_getmes": "台词内容"
+    "api_id": 415,
+    "api_name": "野分",
+    "api_getmes": "阳炎级驱逐舰，野分。前来报到。<br>来，司令。我们走吧。"
+  },
+   {
+    "api_id": 421,
+    "api_name": "秋月",
+    "api_getmes": "秋月级防空驱逐舰，一号舰，秋月。<br>在此前来报到。请交给我吧！"
+  },
+   {
+    "api_id": 422,
+    "api_name": "照月",
+    "api_getmes": "我是秋月级防空驱逐舰，二号舰照月。<br>和秋月姐姐一样，请多多关照。"
+  },
+   {
+    "api_id": 423,
+    "api_name": "初月",
+    "api_getmes": "秋月级驱逐舰，其四号舰，初月。<br>你就是提督吗。好吧。我会出手。"
+  },
+   {
+    "api_id": 424,
+    "api_name": "高波",
+    "api_getmes": "夕云级驱逐舰，六号舰高波。<br>啊，那个……我会努力的！是真的kamo！"
+  },
+   {
+    "api_id": 425,
+    "api_name": "朝霜",
+    "api_getmes": "哟—！我呀，是夕云级驱逐舰，十六号舰朝霜。<br>给我记住。别忘了我哦……听好！"
+  },
+   {
+    "api_id": 431,
+    "api_name": "U-511",
+    "api_getmes": "我是德国海军所属，潜艇U-511。<br>请叫我“优”。<br>我从很远的地方来了。请多关照……"
+  },
+   {
+    "api_id": 432,
+    "api_name": "Graf Zeppelin",
+    "api_getmes": "Guten Morgen! 我是航空母舰，Graf Zeppelin。<br>你就是负责这支舰队的提督吗。是吗……明白了。"
+  },
+   {
+    "api_id": 433,
+    "api_name": "Saratoga",
+    "api_getmes": "Hello！我是航空母舰，Saratoga。<br>提督，请叫我萨拉哦。请多关照。"
+  },
+   {
+    "api_id": 439,
+    "api_name": "Warspite",
+    "api_getmes": "吾名，Queen Elizabeth class Battleship<br>Warspite ! Admiral……请多关照哦。"
+  },
+   {
+    "api_id": 440,
+    "api_name": "Iowa",
+    "api_getmes": "Hi！我是Iowa级战列舰，Iowa。<br>你就是这支舰队的Admiral吗？不错嘛！<br>我们也请多关照！"
+  },
+   {
+    "api_id": 441,
+    "api_name": "Littorio",
+    "api_getmes": "维托里奥·维内托级战列舰2号舰，Littorio。<br>我对火力和速度很有自信。请多关照呢。"
+  },
+   {
+    "api_id": 442,
+    "api_name": "Roma",
+    "api_getmes": "维托里奥·维内托级战列舰4号舰，Roma，请多关照。<br>什么？请不要一直盯着我看哦。"
+  },
+   {
+    "api_id": 443,
+    "api_name": "Libeccio",
+    "api_getmes": "Buon Giorno！<br>我是Maestrale级驱逐舰，Libeccio。<br>叫我Libe就好。提督，请多关照！"
+  },
+   {
+    "api_id": 444,
+    "api_name": "Aquila",
+    "api_getmes": "Buon Giornov！<br>地中海出生的航空母舰Aquila。<br>我会活跃起来的……应该是吧~敬请期待哦！"
+  },
+   {
+    "api_id": 445,
+    "api_name": "秋津洲",
+    "api_getmes": "我是水上机母舰，秋津洲！<br>请把我，和这艘大艇酱一起记住哦！"
+  },
+   {
+    "api_id": 448,
+    "api_name": "Zara",
+    "api_getmes": "Buon Giornov！ Zara级重巡，一号舰Zara！<br>坚韧不拔是我的信条。提督，请多关照！"
+  },
+   {
+    "api_id": 449,
+    "api_name": "Pola",
+    "api_getmes": "Buon Giornov～。<br>Zara级重巡的三号舰～，Pola～。<br>正是想挑战各种事物的好年纪。我会努力的～。"
+  },
+   {
+    "api_id": 451,
+    "api_name": "瑞穗",
+    "api_getmes": "提督，您辛苦了。<br>水上机母舰，瑞穗，前来报到。<br>请多多关照。"
+  },
+   {
+    "api_id": 452,
+    "api_name": "冲波",
+    "api_getmes": "夕云级驱逐舰十四号舰的……冲波。<br>那个……是，我会努力的。请多多关照！"
+  },
+   {
+    "api_id": 453,
+    "api_name": "风云",
+    "api_getmes": "夕云级驱逐舰，三号舰风云。<br>是吗，你就是提督啊。明白了。<br>请下命令吧！"
+  },
+   {
+    "api_id": 454,
+    "api_name": "岚",
+    "api_getmes": "呀！我是阳炎级驱逐舰，十六号舰，岚！<br>司令，请多关照！很高兴见到你！"
+  },
+   {
+    "api_id": 455,
+    "api_name": "萩风",
+    "api_getmes": "阳炎级驱逐舰，十七号舰，萩风。前来报到。<br>司令，请指示。"
+  },
+   {
+    "api_id": 456,
+    "api_name": "亲潮",
+    "api_getmes": "阳炎级驱逐舰四号舰，亲潮。<br>司令，第十五驱逐队，请多多<br>指导。拜托了！"
+  },
+   {
+    "api_id": 457,
+    "api_name": "山风",
+    "api_getmes": "我……白露级驱逐舰……其八号舰。山风。<br>没事的……没关系。"
+  },
+   {
+    "api_id": 458,
+    "api_name": "海风",
+    "api_getmes": "白露级驱逐舰七号舰，<br>以及改白露级一号舰，海风。<br>提督，请多多关照！"
+  },
+   {
+    "api_id": 459,
+    "api_name": "江风",
+    "api_getmes": "白露级驱逐舰九号舰，<br>改白露级的江风哦。请多关照啊！<br>啊，别念错了哦。"
+  },
+   {
+    "api_id": 460,
+    "api_name": "速吸",
+    "api_getmes": "早上好！<br>我是搭载航空机给油舰，速吸！<br>我会努力支持大家的！"
+  },
+   {
+    "api_id": 465,
+    "api_name": "鹿岛",
+    "api_getmes": "提督，您辛苦了。<br>练习巡洋舰，鹿岛，就位了。呵呵。"
+  },
+   {
+    "api_id": 471,
+    "api_name": "神风",
+    "api_getmes": "让你久等了，司令官。<br>神风级驱逐舰，一号舰，神风。前来报到！<br>大家，好了吗？跟着我来！"
+  },
+   {
+    "api_id": 472,
+    "api_name": "朝风",
+    "api_getmes": "早上好！我是朝风。神风级驱逐舰二号舰，朝风。<br>司令官？快记住我！明白吗？"
+  },
+   {
+    "api_id": 473,
+    "api_name": "春风",
+    "api_getmes": "神风级驱逐舰的三号舰，春风。<br>司令官大人，请多关照。"
+  },
+   {
+    "api_id": 474,
+    "api_name": "松风",
+    "api_getmes": "我是神风级驱逐舰四号舰，松风。你就是我的司令官吗。<br>不错嘛。我的背后就交给你了！<br>来吧，我们一起上！"
+  },
+   {
+    "api_id": 475,
+    "api_name": "旗风",
+    "api_getmes": "司令，神风级驱逐舰，旗风，前来报到。<br>我将随侍左右。请多多关照。"
+  },
+   {
+    "api_id": 479,
+    "api_name": "天雾",
+    "api_getmes": "来吧，出发！<br>绫波级驱逐舰，天雾。请多关照，提督！"
+  },
+   {
+    "api_id": 480,
+    "api_name": "狭雾",
+    "api_getmes": "提督，那个，我……<br>我是绫波级驱逐舰……狭雾。<br>我会努力帮助您的。"
+  },
+   {
+    "api_id": 481,
+    "api_name": "水无月",
+    "api_getmes": "睦月级驱逐舰，其六号舰，水无月。<br>对不起迟到了。司令官，请多关照哦！……呵呵。"
+  },
+   {
+    "api_id": 483,
+    "api_name": "伊26",
+    "api_getmes": "喂喂喂！你就是提督啊！<br>我是伊26潜艇！叫我尼姆就行！请多关照哦！"
+  },
+   {
+    "api_id": 484,
+    "api_name": "滨波",
+    "api_getmes": "啊，我……夕云级……驱逐舰……十三号舰……<br>就、就位……了……我、我是滨波……<br>那个……那个……我……"
+  },
+   {
+    "api_id": 485,
+    "api_name": "藤波",
+    "api_getmes": "辛苦了！我是夕云级十一号舰，藤波。<br>司令，请多关照哦！"
+  },
+   {
+    "api_id": 486,
+    "api_name": "浦波",
+    "api_getmes": "特I级驱逐舰，吹雪级中最小的，浦波。<br>司令官，请多多关照。"
+  },
+   {
+    "api_id": 491,
+    "api_name": "Commandant Teste",
+    "api_getmes": "Bonjour！<br>Enchantée　 Je m’appelle Commandant Teste<br>提督，请多多关照。"
+  },
+   {
+    "api_id": 492,
+    "api_name": "Richelieu",
+    "api_getmes": "Je suis vraiment ravie de vous rencontrer amiral.<br>很高兴见到您，amiral<br>战列舰Richelieu，来了。"
+  },
+   {
+    "api_id": 493,
+    "api_name": "伊400",
+    "api_getmes": "提督，您好。我是潜特级的长女，<br>一号舰，伊400。嗯……汐……音？<br>是的……请叫我汐音。"
+  },
+   {
+    "api_id": 494,
+    "api_name": "伊13",
+    "api_getmes": "我是为了补充大型潜艇空母、潜特级而诞生的……<br>伊十三型潜艇，伊13。那个……叫我……瞳(Hitomi)………<br>不……没什么……"
+  },
+   {
+    "api_id": 495,
+    "api_name": "伊14",
+    "api_getmes": "为了运用晴岚而诞生的伊号潜艇，伊14。<br>没关系，叫我伊佑就好。提督，请多关照！"
+  },
+   {
+    "api_id": 511,
+    "api_name": "Гангут",
+    "api_getmes": "你就是Адмирал。很好！<br>Киров级轻巡洋舰Киров。<br>我将我的力量借给你们。请多……关照。"
+  },
+   {
+    "api_id": 514,
+    "api_name": "Sheffield",
+    "api_getmes": "HMS Sheffield 就位。<br>你就是Admiral？嗯，有点不错呢。<br>请多关照。"
+  },
+   {
+    "api_id": 515,
+    "api_name": "Ark Royal",
+    "api_getmes": "私は、Her Majesty’s Ship Ark Royal。<br>Admiral…你…………请多关照。"
+  },
+   {
+    "api_id": 516,
+    "api_name": "Ташкент",
+    "api_getmes": "Здравствуйте！<br>向导驱逐舰，Tashkent，远道而来啦！<br>提督同志！　请多关照哦！"
+  },
+   {
+    "api_id": 517,
+    "api_name": "占守",
+    "api_getmes": "占守级海防舰一号舰！占守！<br>司令，沿岸防卫就交给占守吧！<br>守护海洋……这就是海防舰！"
+  },
+   {
+    "api_id": 518,
+    "api_name": "国后",
+    "api_getmes": "占守级海防舰，其二号舰，国后。<br>那是什么？不是那个意思哦？是啊，叫我Kuna……<br>也可以。"
+  },
+   {
+    "api_id": 519,
+    "api_name": "Jervis",
+    "api_getmes": "Nice to meet you. Lucky Jervis，来了！<br>是的，绝对是！请交给我吧！"
+  },
+   {
+    "api_id": 520,
+    "api_name": "Janus",
+    "api_getmes": "Hi！我的名字是Janus！是的，就是Jervis的僚舰…<br>……诶？不知道？你完全是个门外汉呢。明白吗？<br>给我好好记住！"
+  },
+   {
+    "api_id": 521,
+    "api_name": "春日丸",
+    "api_getmes": "特设航空母舰，春日丸。<br>鄙人不才，但希望能尽到职责。"
+  },
+   {
+    "api_id": 522,
+    "api_name": "八幡丸",
+    "api_getmes": "特设航空母舰，八幡丸。<br>是的，我原本是新田丸级货客船哦。<br>妹妹受您照顾了，我也……请多关照。"
+  },
+   {
+    "api_id": 524,
+    "api_name": "择捉",
+    "api_getmes": "司令，早上好！<br>择捉级海防舰一号舰，择捉。<br>今天也要努力！"
+  },
+   {
+    "api_id": 525,
+    "api_name": "松轮",
+    "api_getmes": "我是海防舰，松轮。<br>那个……择捉……我也会……努力的……"
+  },
+   {
+    "api_id": 527,
+    "api_name": "岸波",
+    "api_getmes": "夕云级驱逐舰，其十五号舰，岸波。<br>你就是提督？是吗。好吧。<br>岸波，将就位第三一驱逐队。"
+  },
+   {
+    "api_id": 528,
+    "api_name": "早波",
+    "api_getmes": "姐姐，司令，辛苦啦！<br>夕云级十二号舰，早波，前来报到！"
+  },
+   {
+    "api_id": 531,
+    "api_name": "佐渡",
+    "api_getmes": "择捉级海防舰！三号舰佐渡大人！<br>司、令！请多关照！嘿嘿。"
+  },
+   {
+    "api_id": 532,
+    "api_name": "凉月",
+    "api_getmes": "秋月级防空驱逐舰“凉月”。为了能……<br>为了能永远守护大家，<br>我……会努力的。请多多关照！"
+  },
+   {
+    "api_id": 533,
+    "api_name": "冬月",
+    "api_getmes": "秋月级防空驱逐舰，八号舰，冬月。前来。<br>阿凉，让你久等了。提督，我们一起守护吧。<br>重要的……事物。"
+  },
+   {
+    "api_id": 535,
+    "api_name": "Luigi Torelli",
+    "api_getmes": "Ciao!<br>我呀，是，Luigi Torelli。<br>是的。Torelli……嗯~叫我路易吉就好。"
+  },
+   {
+    "api_id": 540,
+    "api_name": "对马",
+    "api_getmes": "择捉级海防舰，对马。在此……<br>为防御南方航路而建造的这具身体……<br>我会尽情工作的。敬请期待……哦。"
+  },
+   {
+    "api_id": 549,
+    "api_name": "Intrepid",
+    "api_getmes": "Hi！ Essex class航空母舰，5号舰。Intrepid！<br>你就是Admiral吧？真棒呢。来吧，我们一起走吧？<br>好吗？"
+  },
+   {
+    "api_id": 551,
+    "api_name": "日振",
+    "api_getmes": "日振级海防舰，一号舰，日振！<br>提督，日振级，就位了！我会努力的！"
+  },
+   {
+    "api_id": 552,
+    "api_name": "大东",
+    "api_getmes": "日振级海防舰，其二号舰，大东！<br>到位！你就是提督啊。嘿嘿，不错嘛！<br>我也请多关照啦~！来，出发啦~！"
+  },
+   {
+    "api_id": 561,
+    "api_name": "Samuel B.Roberts",
+    "api_getmes": "我呀，是John C. Butler级护卫驱逐舰，<br>Samuel B. Roberts。记得吗！<br>啊，太长了？那叫我萨姆也可以哦？<br>Nice to meet you！"
+  },
+   {
+    "api_id": 562,
+    "api_name": "Johnston",
+    "api_getmes": "Hi! 我就是Fletcher级，USS Johnston！<br>I’m going to be a fighting ship！ 直到子弹耗尽<br>也要守护！这次也是！"
+  },
+   {
+    "api_id": 565,
+    "api_name": "福江",
+    "api_getmes": "择捉级海防舰，福江。就位！<br>司令，我不会输的……绝不能输！"
+  },
+   {
+    "api_id": 570,
+    "api_name": "平户",
+    "api_getmes": "司令，择捉级海防舰，平户，前来报到。<br>我们一起走吧。别担心……这次绝不会让司令<br>被碰到一根汗毛。这次也是……"
+  },
+   {
+    "api_id": 571,
+    "api_name": "Nelson",
+    "api_getmes": "我是Nelson。你就是我的Admiral吗。<br>哼……原来如此。　……好吧。<br>就让我看看吧，你的指挥。　拭目以待。"
+  },
+   {
+    "api_id": 572,
+    "api_name": "Rodney",
+    "api_getmes": "我是Rodney。让你……久等啦？<br>Admiral，姐姐似乎劳您照顾了？<br>不过，我来了之后，就没问题了！"
+  },
+   {
+    "api_id": 574,
+    "api_name": "Gotland",
+    "api_getmes": "我从北欧瑞典而来。我是航空巡洋舰Gotland。<br>提督，请多多关照！侦察任务和水上战斗……<br>我，会尽力而为的哦！"
+  },
+   {
+    "api_id": 575,
+    "api_name": "Maestrale",
+    "api_getmes": "Buon giorno♪　Maestrale级驱逐舰！<br>长女Maestrale。　提督~也请多多关照我！<br>请多关照哦！我会努力的~！"
+  },
+   {
+    "api_id": 581,
+    "api_name": "日进",
+    "api_getmes": "是吾的提督吗？啊，面相不错嘛。<br>吾是水上机母舰，日进。<br>以后会受您很多照顾，请记住我。"
+  },
+   {
+    "api_id": 582,
+    "api_name": "夏云",
+    "api_getmes": "嗯？啊，是……朝潮级驱逐舰，夏云。<br>提督，那个……请多多关照……"
+  },
+   {
+    "api_id": 583,
+    "api_name": "峰云",
+    "api_getmes": "提督，早上好。<br>朝潮级驱逐舰，峰云，就位。"
+  },
+   {
+    "api_id": 584,
+    "api_name": "八丈",
+    "api_getmes": "啊，我，我就是八丈。是，占守级。海防舰。<br>小八？　嗯~嘛，算了。就让你那么叫吧。<br>请多关照哦。"
+  },
+   {
+    "api_id": 585,
+    "api_name": "石垣",
+    "api_getmes": "占守级海防舰，石垣。什么？我脸上有什么吗？<br>是吗，那就好。对付潜艇的话……交给我。是呀？"
+  },
+   {
+    "api_id": 589,
+    "api_name": "L.d.S.D.d.Abruzzi",
+    "api_getmes": "Buongiorno！ 意大利出生的新锐轻巡洋舰Luigi <br>di Savoia Duca degli Abruzzi。<br>很长吧？叫我阿布鲁奇就行。提督，妹妹也请一起，<br>多多关照和指导。"
+  },
+   {
+    "api_id": 590,
+    "api_name": "G.Garibaldi",
+    "api_getmes": "Buongiorno！<br>意大利出生的最新锐轻巡Giuseppe Garibaldi。<br>很长？是啊。叫我加里波第就好。请多关照！"
+  },
+   {
+    "api_id": 595,
+    "api_name": "Houston",
+    "api_getmes": "我的名字是，Houston。<br>作为太平洋方面战力的基石，我也曾担任亚洲舰队的旗舰。<br>提督，请多关照哦。"
+  },
+   {
+    "api_id": 596,
+    "api_name": "Fletcher",
+    "api_getmes": "您辛苦了。Fletcher级驱逐舰头舰，<br>Fletcher，就位了。Mother？不不不<br>哪有……我会努力帮助大家的！"
+  },
+   {
+    "api_id": 597,
+    "api_name": "Atlanta",
+    "api_getmes": "How is everything?<br>我就是Atlanta级防空巡洋舰，Atlanta。<br>Brooklyn出生。你，是提督？请多关照哦。"
+  },
+   {
+    "api_id": 598,
+    "api_name": "Honolulu",
+    "api_getmes": "Aloha、提督！　我呀，是New York出生，<br>Hawaii长大的Honolulu！　啊北安也在这里…！<br>是嘛！真好！我，也请多多关照哦！"
+  },
+   {
+    "api_id": 601,
+    "api_name": "Colorado",
+    "api_getmes": "Hi! 我就是States的Big7，Colorado级战列舰一号舰，<br>USS Colorado！<br>你就是Admiral？不赖嘛。<br>给我好好跟着我！回答呢？"
+  },
+   {
+    "api_id": 602,
+    "api_name": "South Dakota",
+    "api_getmes": "Nice meeting you.<br>My name is South Dakota.　提督，请多关照。"
+  },
+   {
+    "api_id": 603,
+    "api_name": "Hornet",
+    "api_getmes": "是的，你就是传闻中的提督啊。请多关照哦。<br>我是 USS CV8 Hornet!　I’m looking forward to you."
+  },
+   {
+    "api_id": 604,
+    "api_name": "De Ruyter",
+    "api_getmes": "Hoi ！你就是传闻中这支舰队的提督啊！<br>我是荷兰轻巡 德鲁伊特！　明白吗？<br>明白吗明白吗？对，我，还挺不错的，交给我吧！"
+  },
+   {
+    "api_id": 611,
+    "api_name": "御藏",
+    "api_getmes": "御藏级海防舰，一号舰，御藏。就位。<br>提督，御藏级，望多多关照。<br>虽然身体娇小，但我会尽力而为的。"
+  },
+   {
+    "api_id": 612,
+    "api_name": "屋代",
+    "api_getmes": "御藏级海防舰，六号舰，屋代。前来。<br>无论多么困难的状况，屋代都会努力坚持。<br>守护大家，这是我的职责。"
+  },
+   {
+    "api_id": 613,
+    "api_name": "Perth",
+    "api_getmes": "How are you?<br>我是Perth级轻巡洋舰Perth。HMAS Perth！<br>英国出生，Australia长大的哦。"
+  },
+   {
+    "api_id": 614,
+    "api_name": "Grecale",
+    "api_getmes": "Buongiorno！<br>我就是Maestrale级驱逐舰，次女Grecale！<br>提督，也请你疼爱我哦？啊，好可爱♪"
+  },
+   {
+    "api_id": 615,
+    "api_name": "Helena",
+    "api_getmes": "My name is Helena.<br>St. Louis class 轻巡洋舰二号舰 USS CL50 Helena<br>请多关照哦！"
+  },
+   {
+    "api_id": 621,
+    "api_name": "神州丸",
+    "api_getmes": "陆军特种船“神州丸”。<br>作为能投射综合性登陆战力的正经强袭登陆舰的<br>先驱而建造。登陆作战就交给我吧。"
+  },
+   {
+    "api_id": 625,
+    "api_name": "秋霜",
+    "api_getmes": "我呀是夕云级驱逐舰，其十八号舰“秋霜”哦。<br>我曾穿越过秋霜烈日般的严酷战局。<br>也请记住我哦。别忘了我哦。"
+  },
+   {
+    "api_id": 631,
+    "api_name": "薄云",
+    "api_getmes": "特I级驱逐舰，七号舰，薄云。在东京湾的造船厂<br>出生，在那场战斗中在北方海域活动。<br>提督，请记住薄云哦。"
+  },
+   {
+    "api_id": 632,
+    "api_name": "有明",
+    "api_getmes": "喂！我是有明。过得好吗，提督？是吗！<br>感觉不错嘛！今天也要和我一起走吧？<br>夕暮、阿露、时雨，准备好了吗？二十七驱，拔锚！"
+  },
+   {
+    "api_id": 633,
+    "api_name": "夕暮",
+    "api_getmes": "您好。初春级的夕暮。<br>也有人说我是有明级的二号舰。和有明一样，<br>也请您，多多关爱。"
+  },
+   {
+    "api_id": 634,
+    "api_name": "迅鲸",
+    "api_getmes": "我叫迅鲸级潜艇母舰一号舰，迅鲸。<br>提督，能见到您……太好了。<br>我们一起努力吧！"
+  },
+   {
+    "api_id": 635,
+    "api_name": "长鲸",
+    "api_getmes": "提督，迅鲸级潜艇母舰二号舰，长鲸！<br>姐姐总是受您照顾了！<br>是！照顾潜艇的事就交给我吧！"
+  },
+   {
+    "api_id": 636,
+    "api_name": "伊47",
+    "api_getmes": "伊号潜艇，巡潜丙级的七号舰，伊四十七。<br>请叫我悠娜。是悠娜哦？<br>呵呵，提督，可以吗？"
+  },
+   {
+    "api_id": 637,
+    "api_name": "第四号海防舰",
+    "api_getmes": "丸战计划中诞生的丁级海防舰，其二号舰<br>第四号海防舰。是啊~叫我小四……<br>也可以哦~？提督，请多关照哦~！"
+  },
+   {
+    "api_id": 638,
+    "api_name": "第三〇号海防舰",
+    "api_getmes": "丁级海防舰，第三〇号，美都(Mito)。<br>请多关照。美都会尽力……<br>守护大家的。"
+  },
+   {
+    "api_id": 641,
+    "api_name": "松",
+    "api_getmes": "让你久等了。丁级驱逐舰，松级，其一号舰，<br>松！没关系，马上就能出击。我会保护好的！<br>请交给我吧！"
+  },
+   {
+    "api_id": 642,
+    "api_name": "竹",
+    "api_getmes": "喂。你就是提督吧？<br>我是丁级驱逐舰，松级的二号舰，竹。请多关照。<br>不错的……面相。我很喜欢！"
+  },
+   {
+    "api_id": 643,
+    "api_name": "梅",
+    "api_getmes": "第四十三驱逐队，丁级驱逐舰，梅，就位！<br>提督，舰队的各位，请多多关照。<br>梅，会努力尽力帮助大家的！"
+  },
+   {
+    "api_id": 644,
+    "api_name": "桃",
+    "api_getmes": "我叫桃。丁级的偶像，不对，<br>是驱逐队的偶像，对吗？…对吧？<br>啊，对了。是松级的四号舰。提督，请多关照啦♪"
+  },
+   {
+    "api_id": 653,
+    "api_name": "Scirocco",
+    "api_getmes": "呼啊，Buongiorno～？<br>我是，Maestrale级驱逐舰，是的，最小的妹妹。<br>名字是，Scirocco。嗯，请多关照Ciao？"
+  },
+   {
+    "api_id": 654,
+    "api_name": "Washington",
+    "api_getmes": "North Carolina class. USS Battleship Washington，就位。<br>你就是我的提督啊…请好好指挥哦。"
+  },
+   {
+    "api_id": 655,
+    "api_name": "Northampton",
+    "api_getmes": "Nice meeting you.<br>Northampton级一号舰，Northampton，在此。<br>你就是Admiral?　我们一起走吧！"
+  },
+   {
+    "api_id": 671,
+    "api_name": "卷波",
+    "api_getmes": "夕云级驱逐舰，五号舰卷波。来了。<br>怎么了？这支舰队。提督，你也没精神呢！<br>我来了哦？是的，开开心心地前进吧！"
+  },
+   {
+    "api_id": 674,
+    "api_name": "玉波",
+    "api_getmes": "夕云级驱逐舰，其九号舰，玉波。<br>隶属于十一水雷战队。<br>我会努力成为战力的。"
+  },
+   {
+    "api_id": 675,
+    "api_name": "凉波",
+    "api_getmes": "辛苦啦！我呀，是凉波。夕云级的十号舰哦！<br>藤波、早波，让你们久等啦！提督，叫我凉(Suzu)就好。<br>以后请多关照哦！"
+  },
+   {
+    "api_id": 699,
+    "api_name": "宗谷",
+    "api_getmes": "特务舰，宗谷。提督，能见到您，是我的荣幸。<br>虽然我不是战斗舰，但我……会尽力工作的！<br>请多多关照！"
+  },
+   {
+    "api_id": 877,
+    "api_name": "Conte di Cavour",
+    "api_getmes": "Buon giorno！<br>Mi chiamo Conte di Cavour　你就是提督？<br>哼。那，请多关照啦！"
+  },
+   {
+    "api_id": 881,
+    "api_name": "伊201",
+    "api_getmes": "我就是潜高级的长女，伊201。妹妹似乎受您照顾了呢。<br>我……是啊，叫我芙蕾就好。<br>提督，我们试试看吧？"
+  },
+   {
+    "api_id": 882,
+    "api_name": "伊203",
+    "api_getmes": "在海里的话……我大概是最快的……<br>潜高级的三号舰。伊２０３。叫风美，就行吧？<br>危险？　我？……也没那么危险哦？"
+  },
+   {
+    "api_id": 885,
+    "api_name": "Victorious",
+    "api_getmes": "我是Aircraft Carrier HMS Victorious。你就是提督吗。<br>好吧。我们一起去吧。去这片海！"
+  },
+   {
+    "api_id": 886,
+    "api_name": "早潮",
+    "api_getmes": "是！我就是阳炎级驱逐舰五号舰，早潮！<br>浦贺出生！提督！请多关照哦！<br>喂，提督！你在听吗？"
+  },
+   {
+    "api_id": 891,
+    "api_name": "Salmon",
+    "api_getmes": "我就是Salmon级头舰，Salmon！<br>和Gato级相比是旧型，但其实我很活跃的！<br>Admiral？　请多关照哦！"
+  },
+   {
+    "api_id": 892,
+    "api_name": "Drum",
+    "api_getmes": "Are you the rumored admiral? I’m honored！<br>我就是Gato级的Drum。特地来见你的！"
+  },
+   {
+    "api_id": 895,
+    "api_name": "昭南",
+    "api_getmes": "我是日振级海防舰，其三号舰，昭南。<br>提督，海上护卫，越来越严峻了……我们一起努力吧。"
+  },
+   {
+    "api_id": 896,
+    "api_name": "Brooklyn",
+    "api_getmes": "It’s lovely to meet you<br>我就是Brooklyn级的nameship，<br>Brooklyn！什么？没意见……吧！"
+  },
+   {
+    "api_id": 898,
+    "api_name": "第二十二号海防舰",
+    "api_getmes": "我是丁级海防舰，第二十二号！<br>叫法吗？那叫我“芙芙”怎么样？<br>虽然小小的……但我，超级能干哦！"
+  },
+   {
+    "api_id": 900,
+    "api_name": "山汐丸",
+    "api_getmes": "作为战时大型油轮计划，并作为特2TL级<br>特设运输空母建造的山汐丸。<br>提督阁下，也请务必好好利用我……拜托了……"
+  },
+   {
+    "api_id": 901,
+    "api_name": "Javelin",
+    "api_getmes": "Are you alright?<br>是的。我就是J级驱逐舰的头舰，Javelin。<br>记住我哦？ ……嗯！好极了。"
+  },
+   {
+    "api_id": 904,
+    "api_name": "能美",
+    "api_getmes": "提督，请多多关照。我是海防舰，能美。<br>御藏级的四号舰。通过丸急计划整備的。<br>这片海……我们一起走吧。"
+  },
+   {
+    "api_id": 905,
+    "api_name": "仓桥",
+    "api_getmes": "提督，我是海防舰，仓桥。<br>御藏级的五号舰。为Hi船队，以及台湾方面的<br>护卫，我努力了！是！竭尽全力！"
+  },
+   {
+    "api_id": 913,
+    "api_name": "Maryland",
+    "api_getmes": "Hi! Colorado级战列舰，二号舰，USS Maryland。<br>是的，我就是Big7！你就是Admiral吗？<br>嗯……是吗…。"
+  },
+   {
+    "api_id": 921,
+    "api_name": "鹈来",
+    "api_getmes": "鹈来级海防舰，其一号舰，鹈来！<br>我是尽可能不削弱战斗力，同时提高反潜战斗力和生产性<br>的苦心的舰级。提督，我，会长期努力的！"
+  },
+   {
+    "api_id": 922,
+    "api_name": "稻木",
+    "api_getmes": "海防舰，稻木！鹈来级海防舰，十二号舰。<br>城镇也好，人也好……我都会守护。哪怕牺牲自己！"
+  },
+   {
+    "api_id": 923,
+    "api_name": "Tuscaloosa",
+    "api_getmes": "Hi！ Good to see you.　我就是，没错。<br>重巡Tuscaloosa！嗯，New Orleans class。<br>请多关照！"
+  },
+   {
+    "api_id": 924,
+    "api_name": "Nevada",
+    "api_getmes": "Nice to meet you！<br>我就是Nevada级战列舰头舰，Nevada！<br>你就是提督吗。嗯。嘛，算了！请多关照！"
+  },
+   {
+    "api_id": 927,
+    "api_name": "Valiant",
+    "api_getmes": "我是Queen Elizabeth级战列舰，Valiant。<br>是的。名字便是勇敢，勇气本身。你就是…Admiral？<br>It’s so lovely meeting you."
+  },
+   {
+    "api_id": 931,
+    "api_name": "Ranger",
+    "api_getmes": "Nice to meet you. <br>Admiral? 很高兴见到您。<br>我是 CV4 USS Ranger。"
+  },
+   {
+    "api_id": 933,
+    "api_name": "Massachusetts",
+    "api_getmes": "Nice to meet you？<br>My name is Massachusetts<br>请多关照，提督！"
+  },
+   {
+    "api_id": 934,
+    "api_name": "C.Cappellini",
+    "api_getmes": "Buon giorno！我呀，是Marcello级外洋型潜艇哦~！<br>Mi chiamo Comandante Cappellini！<br>叫我Cappellini就好啦。请多关照！"
+  },
+   {
+    "api_id": 935,
+    "api_name": "Jean Bart",
+    "api_getmes": "Bonjour？ Enchantée。我是Richelieu的妹妹，<br>Jean Bart！ Pardon……你在听吗？<br>嘛……算了。"
+  },
+   {
+    "api_id": 941,
+    "api_name": "Heywood L.E.",
+    "api_getmes": "My name is Heywood L.Edwards.<br>就位了。是啊。提督，我们一起努力吧？"
+  },
+   {
+    "api_id": 942,
+    "api_name": "Richard P.Leary",
+    "api_getmes": "Hi！ 久等了？ 我是Fletcher级驱逐舰<br>Richard Phillips Leary！<br>叫我Leary就好！ 请多关照哦！"
+  },
+   {
+    "api_id": 943,
+    "api_name": "熊野丸",
+    "api_getmes": "日本陆军特种船，登陆母舰，熊野丸。<br>你就是提督吗。原来如此……是吗。我也进入您的指挥之下吧。<br>可以吗！"
+  },
+   {
+    "api_id": 944,
+    "api_name": "平安丸",
+    "api_getmes": "冰川丸级货客船，平安丸。哎呀……<br>现在已改装为特设潜艇母舰，平安丸。<br>提督，我，也请您多多关照哦。"
+  },
+   {
+    "api_id": 945,
+    "api_name": "第百一号输送舰",
+    "api_getmes": "第百一号级输送舰，那个，对了，二等输送舰更<br>好理解吧！一号舰，第百一号输送舰！<br>虽然是战时急造，但我，做得还挺不错的哦！是！"
+  },
+   {
+    "api_id": 952,
+    "api_name": "Phoenix",
+    "api_getmes": "Hi! 我是Brooklyn级的Phoenix大人哦!<br>是的，我才是不死鸟Phoenix！<br>啊，我可不是小不死鸟哦! OK?"
+  },
+   {
+    "api_id": 953,
+    "api_name": "朝日",
+    "api_getmes": "提督，您辛苦了。我是练习特务舰，<br>朝日。是的，没错。以前是战列舰，敷岛级。<br>不，那是以前的事了。请多多关照。"
+  },
+   {
+    "api_id": 962,
+    "api_name": "Mogador",
+    "api_getmes": "Bonjour! 大型高速驱逐舰，Mogador级一号舰Mogador<br>在此。你就是Amiral? 嗯……D’accord!<br>就交给我吧！"
+  },
+   {
+    "api_id": 964,
+    "api_name": "白云",
+    "api_getmes": "吹雪级驱逐舰，八号舰，白云。<br>提督大人……鄙人不才，<br>但请多多关照。"
+  },
+   {
+    "api_id": 965,
+    "api_name": "Gloire",
+    "api_getmes": "你就是Mon amiral吧？ Bonjour! 我是La Galissonnière级<br>轻巡洋舰Gloire！虽然喜欢Tricolore……但有点<br>显眼吗……待会儿我去换个衣服吧？"
+  },
+   {
+    "api_id": 966,
+    "api_name": "Lexington",
+    "api_getmes": "Lexington级航空母舰头舰，USS Lexington。Lady <br>也可以叫我Lex。我曾被分配到太平洋舰队，与日本空母<br>机动部队对抗。Admiral，我也请多关照哦。"
+  },
+   {
+    "api_id": 971,
+    "api_name": "伊36",
+    "api_getmes": "伊号潜艇，巡潜乙级，伊36。<br>是的，我是生产量最大的主力中的主力伊号潜艇。<br>叫法吗？叫我“咪姆”怎么样……好吗？"
+  },
+   {
+    "api_id": 972,
+    "api_name": "伊41",
+    "api_getmes": "伊号潜艇，巡潜乙级改一。其二号舰，伊41，前来报到！<br>你就是提督吗？不知道和那位舰长比，谁更厉害呢？<br>嘛，让我看看吧，你的指挥！"
+  },
+   {
+    "api_id": 984,
+    "api_name": "Wahoo",
+    "api_getmes": "我就是潜艇Wahoo。Gato class哦。<br>哨戒任务就交给我！狩猎我很擅长。 ……诶？北海道？<br>嗯~我还是算了。"
+  },
+   {
+    "api_id": 992,
+    "api_name": "杉",
+    "api_getmes": "提督，丁级的杉，就位了。<br>我来了之后，舰队就万无一失了。<br>……开玩笑的啦！我只是想说一次而已。"
+  },
+   {
+    "api_id": 994,
+    "api_name": "榧",
+    "api_getmes": "提督，您辛苦了！<br>松级……不，丁级驱逐舰，榧。虽然我还是个新手，<br>但会尽力帮助您的。"
+  },
+   {
+    "api_id": 995,
+    "api_name": "大泊",
+    "api_getmes": "以一场悲剧为契机，在日本首次建造的正经破冰舰，<br>名叫“大泊”。虽然不是以战斗为目的的舰，<br>但我会守护北方的渔业、航行，以及大家的生命。"
+  },
+   {
+    "api_id": 1001,
+    "api_name": "Киров",
+    "api_getmes": "你就是Адмирал。很好！<br>Киrov级轻巡洋舰Киrov。<br>我将我的力量借给你们。请多……关照。"
+  },
+   {
+    "api_id": 1003,
+    "api_name": "岛根丸",
+    "api_getmes": "我是，1TL级战时标准船，岛根丸！不对……<br>是特1TL级特设航空母舰，岛根丸！我是为了船队护卫<br>而建造的特殊舰船！提督，我想工作！"
+  },
+   {
+    "api_id": 1005,
+    "api_name": "Minneapolis",
+    "api_getmes": "Hi! New Orleans class 重巡，其三号舰<br>Minneapolis! 就位了! 我来了之后<br>就没问题了！放心吧！　嗯…什么？放心好吗？"
   }
-
-
-
 ]
