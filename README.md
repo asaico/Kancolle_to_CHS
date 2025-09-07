@@ -7,6 +7,8 @@
 使用通用的缓存魔改方案，以.hack的形式整理图片资源，可以使用ACGPOWER、岛风GO、kanxy等支持.hack魔改的软件进行魔改。  
 不同软件中缓存资源的目录可能会不一样，建议单独把kcs和kcs2文件夹复制替换到相应软件的cache文件夹中的同名文件夹。  
 <img width="1200" height="720" alt="1" src="https://github.com/user-attachments/assets/440de43d-597d-4c20-ba8b-3b4d43a6b5cb" />
+如果想包含文字翻译，目前必须使用kanxy才能实现。kanxy获取请查看页面：
+https://ngabbs.com/read.php?tid=42987491
 
 # 关于翻译
 优先对游戏UI图片资源进行了翻译。  
