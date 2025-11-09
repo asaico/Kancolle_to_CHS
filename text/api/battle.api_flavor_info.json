@@ -6,12 +6,61 @@
   },
   {
     "api_voice_id": 0000000,//7-4斩杀  ID还不知道
-    "api_message": "不管你來多少次……不知道方法……<br>就是無濟於事……！ …失敗了……就要學習……<br>然後改變……。去……試試看啊……！"
+    "api_message": "不管你來多少次……不知道方法……<br>也是無濟於事……！失敗了……就要學習……<br>然後改變……。去……試試看啊……！"
   },
   {
     "api_voice_id": 6466810,//6-4
     "api_message": "沒想到竟能……來到……這裏呀……"
   },
+  {
+    "api_voice_id": 611231710,//61-1
+    "api_class_name": "深海轻巡洋舰",
+    "api_ship_name": "轻巡MU级",
+    "api_message": "我討厭……<br>無禮的……傢伙……"
+  },
+  {
+    "api_voice_id": 611232010,//61-1
+    "api_class_name": "深海轻巡洋舰",
+    "api_ship_name": "轻巡MU级-坏",
+    "api_message": "這樣一來……更加……便於戰鬥！<br>……給我沉沒……！"
+  },
+  {
+    "api_voice_id": 611232310,//61-1
+    "api_class_name": "海防战舰",
+    "api_ship_name": "峡湾栖姬",
+    "api_message": "這片土地……絕不……讓給你們……！<br>很好……。放馬……過來……吧！"
+  },
+  {
+    "api_voice_id": 611232610,//61-1
+    "api_class_name": "海防战舰",
+    "api_ship_name": "峡湾栖姬-坏",
+    "api_message": "好煩人……！<br>你們……就在這裏……吃我的魚雷吧……！"
+  },
+  {
+    "api_voice_id": 464189810,//61-2
+    "api_class_name": "合同舰队沉没巡洋舰",
+    "api_ship_name": "巴达维亚近海栖姬",
+    "api_message": "很……抱歉……但我們……是……<br>你們的對手……放馬……過來吧！"
+  },
+  {
+    "api_voice_id": 464190110,//61-2
+    "api_class_name": "合同舰队沉没巡洋舰",
+    "api_ship_name": "巴达维亚近海栖姬-坏",
+    "api_message": "你們……好像……稍微……強了一點呢……！<br>……要認真……了……！"
+  },
+  {
+    "api_voice_id": 612233210,//61-2
+    "api_class_name": "海防战舰",
+    "api_ship_name": "峡湾单骑",
+    "api_message": "別想……再通過……！<br>這裏就是盡頭！……上吧！"
+  },
+  {
+    "api_voice_id": 612233510,//61-2
+    "api_class_name": "海防战舰",
+    "api_ship_name": "峡湾单骑-坏",
+    "api_message": "糾纏不休的人……會被討厭哦……！<br>那麼……我可要上了……！"
+  },
+
 
 
 ]
