@@ -218,7 +218,25 @@
   {
     "api_maparea_id": 61,
     "api_no": 1,
+    "api_name": "挪威近海/纳尔维克近海",
     "api_opetext": "威瑟堡演习行动",
     "api_infotext": "深海栖舰入侵挪威<br>韦瑟演习作战开始！<br>派出欧洲远征部队<br>全力将其粉碎！"
   },
+ {
+    "api_maparea_id": 61,
+    "api_no": 2,
+    "api_name": "纳尔维克近海",
+    "api_opetext": "纳尔维克防卫战",
+    "api_infotext": "实施北欧战略要冲纳尔维克防卫作战！向该地登陆陆战部队和救援物资！阻止敌方入侵！"
+  },
+  {
+    "api_maparea_id": 61,
+    "api_no": 3,
+    "api_name": "挪威近海",
+    "api_opetext": "异闻挪威近海海战",
+    "api_infotext": "敌决战兵力正在纳尔维克近海集结！通过舰队决战将其歼灭！欧洲远征舰队出击！在拂晓刻下胜利！"
+  },
+
+
+
 ]
