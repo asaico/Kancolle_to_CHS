@@ -66,7 +66,11 @@
     "api_ship_name": "巡洋战舰水姬",
     "api_message": "哼……！無論是戰艦……還是航母……<br>無論是什麼……我都會將其擊潰……現在……<br>就在這裏……！Throw you all into hell!"
   },
-
-
+  {
+   "api_voice_id": "613234110",//61-3
+    "api_class_name": "巡洋战舰",
+   "api_ship_name": "巡洋战舰水姬-坏",
+    "api_message": "你的……臉……我已經……看膩了……！<br>去……海之……地獄……吧……！Good bye!"
+  },
 
 ]
