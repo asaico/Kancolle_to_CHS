@@ -1559,4 +1559,13 @@
     "api_name": "Minneapolis",
     "api_getmes": "Hi! New Orleans class 重巡，其三号舰<br>Minneapolis! 就位了! 我来了之后<br>就没问题了！放心吧！　嗯…什么？放心好吗？"
   }
+    {
+    "api_id": 1005,
+    "api_name": "Wasp",
+    "api_getmes": "Hi! 我是Essex级航空母舰，6号舰！<br>Wasp哦！你就是Admiral？挺好的嘛？<br>I kindly request you!"
+  }
+
+
+
+
 ]
