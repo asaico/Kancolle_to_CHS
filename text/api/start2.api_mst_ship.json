@@ -1525,6 +1525,11 @@
     "api_getmes": "我就是潜艇Wahoo。Gato class哦。<br>哨戒任务就交给我！狩猎我很擅长。 ……诶？北海道？<br>嗯~我还是算了。"
   },
    {
+    "api_id": 985,
+    "api_name": "Dace",
+    "api_getmes": "我叫Dace。知道嗎？<br>不知道？是嗎。嘛，無所謂啦。<br>你是Admiral？這樣啊——"
+  },
+   {
     "api_id": 988,
     "api_name": "南海",
     "api_getmes": "我是冷冻船南海。提督，虽然我只是一艘小小的杂役船，<br>……但我会努力的，希望能对大家有所帮助！"
@@ -1558,8 +1563,8 @@
     "api_id": 1005,
     "api_name": "Minneapolis",
     "api_getmes": "Hi! New Orleans class 重巡，其三号舰<br>Minneapolis! 就位了! 我来了之后<br>就没问题了！放心吧！　嗯…什么？放心好吗？"
-  }
-    {
+  },
+   {
     "api_id": 1005,
     "api_name": "Wasp",
     "api_getmes": "Hi! 我是Essex级航空母舰，6号舰！<br>Wasp哦！你就是Admiral？挺好的嘛？<br>I kindly request you!"
