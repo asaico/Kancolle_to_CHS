@@ -156,6 +156,12 @@
     "api_infotext": "已确认有敌方精锐机动部队<br>接近南方海域。出动空母<br>机动部队，迎击敌军！"
   },
   {
+    "api_maparea_id": 5,
+    "api_no": 6,
+    "api_opetext": "讨伐拉包尔空袭舰队",
+    "api_infotext": "实施向莱城的增援运输后，<br>游击部队向拉包尔部署！<br>讨伐企图进行空袭的敌方舰队！"
+  },
+  {
     "api_maparea_id": 6,
     "api_no": 1,
     "api_opetext": "潜艇作战",
