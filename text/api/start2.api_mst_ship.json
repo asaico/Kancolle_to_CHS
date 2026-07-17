@@ -1439,6 +1439,11 @@
     "api_name": "Ranger",
     "api_getmes": "Nice to meet you. <br>Admiral? 很高兴见到您。<br>我是 CV4 USS Ranger。"
   },
+  {
+    "api_id": 932,
+    "api_name": "Indiana",
+    "api_getmes": "Hi there! Admiral!<br>我就是最棒的战列舰，其二号舰，Indiana！要记好了哦！<br>没关系，你一定会无法忘记的。一定会呢！"
+  },
    {
     "api_id": 933,
     "api_name": "Massachusetts",
@@ -1534,6 +1539,11 @@
     "api_name": "南海",
     "api_getmes": "我是冷冻船南海。提督，虽然我只是一艘小小的杂役船，<br>……但我会努力的，希望能对大家有所帮助！"
   },
+  {
+    "api_id": 991,
+    "api_name": "Reno",
+    "api_getmes": "Yo, what's up? I'm Reno. 你就是这支舰队传闻中的<br>Boss吗？挺不错的。我很期待。 和对Sis一样，请多指教啦！"
+  },
    {
     "api_id": 992,
     "api_name": "杉",
@@ -1569,13 +1579,31 @@
     "api_name": "Minneapolis",
     "api_getmes": "Hi! New Orleans class 重巡，其三号舰<br>Minneapolis! 就位了! 我来了之后<br>就没问题了！放心吧！　嗯…什么？放心好吗？"
   },
-   {
-    "api_id": 1005,
+{
+    "api_id": 1022,
+    "api_name": "Glorious",
+    "api_getmes": "Courageous级战列巡洋舰，我是 Glorious。<br>虽然稍微有些在意海军军缩条约的情况……<br>您就是我们的Admiral吧。还请多多指教呢！"
+  },
+{
+    "api_id": 1023,
+    "api_name": "Independence",
+    "api_getmes": "Admiral, it is an honor to meet you. <br>My name is USS Independence.<br>I look forward to working with you."
+  },
+  {
+    "api_id": 1025,
     "api_name": "Wasp",
     "api_getmes": "Hi! 我是Essex级航空母舰，6号舰！<br>Wasp哦！你就是Admiral？挺好的嘛？<br>I kindly request you!"
+  },
+{
+    "api_id": 1041,
+    "api_name": "花月",
+    "api_getmes": "秋月级防空驱逐舰，十三号舰，我是花月。<br>提督，让您久等了。虽然我还有许多不足之处，<br>但这一次……我希望能帮上大家的忙。"
+  },
+  
+{
+    "api_id": 1044,
+    "api_name": "桐",
+    "api_getmes": "我是松级驱逐舰，其六号舰的 [桐]！终于也能在这里<br>见面了呢！请多指教~！……哎，刚刚那一瞬间，你脑子里<br>一定在想“好小！”对吧！禁止说那个词！说了就要罚款哦！"
   }
-
-
-
 
 ]
