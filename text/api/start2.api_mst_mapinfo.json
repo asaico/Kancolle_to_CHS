@@ -262,6 +262,21 @@
     "api_name": "帕劳近海/乌利西泊地近海/中部太平洋",
     "api_opetext": "对乌利西泊地的正式反攻",
     "api_infotext": "反攻之时已到！以第三十一战队、第六舰队以及联合舰队主力，强袭深海乌利西泊地！"
+  },
+  {
+    "api_maparea_id": 62,
+    "api_no": 4,
+    "api_name": "地中海南法近海/阿尔及利亚近海/意大利半岛近海",
+    "api_opetext": "Opération Vado_瓦德作战",
+    "api_infotext": "实施欧洲作战！在痛击北部敌方地面设施后，将舰队主力集结于阿尔及利亚，开始反击！"
+  },
+  {
+    "api_maparea_id": 62,
+    "api_no": 5,
+    "api_name": "布雷斯特近海/大西洋/英国本土近海/波罗的海",
+    "api_opetext": "Au-delà du Destin Cruel_法国舰队",
+    "api_infotext": "以集结于布雷斯特港的法国舰队及欧洲远征舰队，防御敌人的英国入侵，实施总反击！"
   }
+
 
 ]
