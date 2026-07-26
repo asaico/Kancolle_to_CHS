@@ -1599,11 +1599,38 @@
     "api_name": "花月",
     "api_getmes": "秋月级防空驱逐舰，十三号舰，我是花月。<br>提督，让您久等了。虽然我还有许多不足之处，<br>但这一次……我希望能帮上大家的忙。"
   },
-  
 {
     "api_id": 1044,
     "api_name": "桐",
     "api_getmes": "我是松级驱逐舰，其六号舰的 [桐]！终于也能在这里<br>见面了呢！请多指教~！……哎，刚刚那一瞬间，你脑子里<br>一定在想“好小！”对吧！禁止说那个词！说了就要罚款哦！"
+  },
+    {
+    "api_id": 1051,
+    "api_name": "Algérie",
+    "api_getmes": "我正是法国引以为傲的重巡洋舰 Algérie！作为条约级重巡，<br>这是一艘凝聚了最高技术，以及我们法国海军荣耀与自尊而建造出来的舰船。<br>真好啊，再次面临蓝天。出发吧！Mon Amiral!"
+  },
+  {
+    "api_id": 1053,
+    "api_name": "Vautour",
+    "api_getmes": "法国Contre-Torpilleur<br>La classe Aigle Vautour！在此报到。<br>Mon amiral, 请多指教！"
+  },
+  {
+    "api_id": 1055,
+    "api_name": "Béarn",
+    "api_getmes": "Béarn, à votre service.<br>Mon Amiral, l'histoire m'a manqué.<br>À vous de me faire briller. 拜托您啦！"
+  },
+  {
+    "api_id": 1062,
+    "api_name": "Visby",
+    "api_getmes": "Hej! 我是都市级驱逐舰，Visby。叫我 Vis 也可以哦？<br>你就是传闻中的提督吧。能见到你，我很高兴。<br>请多指教！"
+  },
+  {
+    "api_id": 1065,
+    "api_name": "日枝丸",
+    "api_getmes": "我是横滨出生、在西雅图航线长大的特设潜艇母舰，日枝丸。<br>欢迎各位光临。各位潜艇，还有提督，<br>请在我的身边尽情放松休息吧。"
   }
+
+
+  
 
 ]
