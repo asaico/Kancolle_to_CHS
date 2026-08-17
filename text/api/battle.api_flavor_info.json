@@ -173,6 +173,20 @@
   "api_class_name": "深海重巡洋舰旗舰",
   "api_ship_name": "法兰西哀重姬-坏",
   "api_message": "要不然……快點……自爆吧……！<br>那樣的話……？ 如何……！"
+},
+{
+  "api_voice_id": "625239210",//2025夏e5p4boss磨血
+  "api_class_name": "深海航空母舰",
+  "api_ship_name": "法兰西空母笼姬",
+  "api_message": "L’amiral ennemi……！你……是……提督……但是……<br>是我的敵人！是敵人！這裡……就是你的……结局<br>大海！毫無……用處……就在這裡……沉沒吧！"
+},
+{
+  "api_voice_id": "625239510",//2025夏e5p4boss斩杀
+  "api_class_name": "深海航空母舰",
+  "api_ship_name": "法兰西空母笼姬-坏",
+  "api_message": "L’amiral ennemi……！居然沒有屈服呢……！<br>但是……即便如此……也結束了……！<br>最後的大門……是打不開的……打不開的啊……！"
 }
+
+
 
 ]

@@ -992,7 +992,7 @@
    {
     "api_id": 515,
     "api_name": "Ark Royal",
-    "api_getmes": "私は、Her Majesty’s Ship Ark Royal。<br>Admiral…你…………请多关照。"
+    "api_getmes": "我是，Her Majesty’s Ship Ark Royal。<br>Admiral…你…………请多关照。"
   },
    {
     "api_id": 516,
@@ -1512,7 +1512,7 @@
    {
     "api_id": 966,
     "api_name": "Lexington",
-    "api_getmes": "Lexington级航空母舰头舰，USS Lexington。Lady <br>也可以叫我Lex。我曾被分配到太平洋舰队，与日本空母<br>机动部队对抗。Admiral，我也请多关照哦。"
+    "api_getmes": "Lexington级航空母舰Name ship，USS Lexington。<br>也可以叫我Lady Lex。我曾被分配到太平洋舰队，与日本空母<br>机动部队对抗。Admiral，我也请多关照哦。"
   },
    {
     "api_id": 971,
