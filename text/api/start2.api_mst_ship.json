@@ -1628,9 +1628,40 @@
     "api_id": 1065,
     "api_name": "日枝丸",
     "api_getmes": "我是横滨出生、在西雅图航线长大的特设潜艇母舰，日枝丸。<br>欢迎各位光临。各位潜艇，还有提督，<br>请在我的身边尽情放松休息吧。"
+  },
+  {
+    "api_id": 534,
+    "api_name": "神鹰",
+    "api_getmes": "Guten Tag……不，你好。<br>我叫神鹰……那个……是航空母舰。很多事情<br>还不太习惯，真是抱歉。不过我会努力的。"
+  },
+  {
+    "api_id": 544,
+    "api_name": "Gambier Bay",
+    "api_getmes": "It’s a pleasure to meet you.<br>My name is Gambier Bay……哇啊！别、别开枪！<br>呼……太、太好了！"
+  },
+  {
+    "api_id": 925,
+    "api_name": "Langley",
+    "api_getmes": "我是独立级航空母舰，Langley。<br>哈啊？才不是那一艘兰利呢！<br>谁是运煤舰啊！Me的原型可是新锐轻巡哦！"
+  },
+  {
+    "api_id": 973,
+    "api_name": "Thonburi",
+    "api_getmes": "ยินดีที่ได้รู้จักค่ะ<br>我就是泰王国海防战舰吞武里！<br>提督！请多多指教！"
+  },
+  {
+    "api_id": 993,
+    "api_name": "樫",
+    "api_getmes": "呀，提督，辛苦啦！丁型驱逐舰樫！在此报到！<br>啊，与榧、杉一起，我也拜托你多多关照啦！"
+  },
+  {
+    "api_id": 998,
+    "api_name": "Norge",
+    "api_getmes": "God morgen.<br>我是Norge级海防战舰，Norge。<br>你就是这里的提督吧。我们携手同行。"
+  },
+  {
+    "api_id": 1027,
+    "api_name": "Glorious",
+    "api_getmes": "我是Courageous级巡洋战舰，Glorious。<br>虽然有点在意海军军缩条约的动向……但你就是我们的<br>Admiral对吧。请多多指教咯！"
   }
-
-
-  
-
 ]
