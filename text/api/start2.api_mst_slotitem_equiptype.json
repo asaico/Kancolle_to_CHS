@@ -1,0 +1,250 @@
+[
+  {
+    "api_id": 1,
+    "api_name": "小口径主炮"
+  },
+  {
+    "api_id": 2,
+    "api_name": "中口径主炮"
+  },
+  {
+    "api_id": 3,
+    "api_name": "大口径主炮"
+  },
+  {
+    "api_id": 4,
+    "api_name": "副炮"
+  },
+  {
+    "api_id": 5,
+    "api_name": "鱼雷"
+  },
+  {
+    "api_id": 6,
+    "api_name": "舰上战斗机"
+  },
+  {
+    "api_id": 7,
+    "api_name": "舰上轰炸机"
+  },
+  {
+    "api_id": 8,
+    "api_name": "舰上攻击机"
+  },
+  {
+    "api_id": 9,
+    "api_name": "舰上侦察机"
+  },
+  {
+    "api_id": 10,
+    "api_name": "水上侦察机"
+  },
+  {
+    "api_id": 11,
+    "api_name": "水上轰炸机"
+  },
+  {
+    "api_id": 12,
+    "api_name": "小型电探"
+  },
+  {
+    "api_id": 13,
+    "api_name": "大型电探"
+  },
+  {
+    "api_id": 14,
+    "api_name": "声呐"
+  },
+  {
+    "api_id": 15,
+    "api_name": "深水炸弹"
+  },
+  {
+    "api_id": 16,
+    "api_name": "追加装甲"
+  },
+  {
+    "api_id": 17,
+    "api_name": "动力强化"
+  },
+  {
+    "api_id": 18,
+    "api_name": "对空强化弹"
+  },
+  {
+    "api_id": 19,
+    "api_name": "对舰强化弹"
+  },
+  {
+    "api_id": 20,
+    "api_name": "VT引信"
+  },
+  {
+    "api_id": 21,
+    "api_name": "对空机枪"
+  },
+  {
+    "api_id": 22,
+    "api_name": "特殊潜航艇"
+  },
+  {
+    "api_id": 23,
+    "api_name": "应急修理要员"
+  },
+  {
+    "api_id": 24,
+    "api_name": "登陆艇"
+  },
+  {
+    "api_id": 25,
+    "api_name": "自转旋翼机"
+  },
+  {
+    "api_id": 26,
+    "api_name": "反潜巡逻机"
+  },
+  {
+    "api_id": 27,
+    "api_name": "追加装甲(中型)"
+  },
+  {
+    "api_id": 28,
+    "api_name": "追加装甲(大型)"
+  },
+  {
+    "api_id": 29,
+    "api_name": "探照灯"
+  },
+  {
+    "api_id": 30,
+    "api_name": "简易运输资材"
+  },
+  {
+    "api_id": 31,
+    "api_name": "舰艇修理设施"
+  },
+  {
+    "api_id": 32,
+    "api_name": "潜艇鱼雷"
+  },
+  {
+    "api_id": 33,
+    "api_name": "照明弹"
+  },
+  {
+    "api_id": 34,
+    "api_name": "司令部设施"
+  },
+  {
+    "api_id": 35,
+    "api_name": "航空要员"
+  },
+  {
+    "api_id": 36,
+    "api_name": "高射装置"
+  },
+  {
+    "api_id": 37,
+    "api_name": "对地装备"
+  },
+  {
+    "api_id": 38,
+    "api_name": "大口径主炮（II）"
+  },
+  {
+    "api_id": 39,
+    "api_name": "水上舰要员"
+  },
+  {
+    "api_id": 40,
+    "api_name": "大型声呐"
+  },
+  {
+    "api_id": 41,
+    "api_name": "大型飞行艇"
+  },
+  {
+    "api_id": 42,
+    "api_name": "大型探照灯"
+  },
+  {
+    "api_id": 43,
+    "api_name": "战斗粮食"
+  },
+  {
+    "api_id": 44,
+    "api_name": "补给物资"
+  },
+  {
+    "api_id": 45,
+    "api_name": "水上战斗机"
+  },
+  {
+    "api_id": 46,
+    "api_name": "特型内火艇"
+  },
+  {
+    "api_id": 47,
+    "api_name": "陆上攻击机"
+  },
+  {
+    "api_id": 48,
+    "api_name": "局地战斗机"
+  },
+  {
+    "api_id": 49,
+    "api_name": "陆上侦察机"
+  },
+  {
+    "api_id": 50,
+    "api_name": "运输器材"
+  },
+  {
+    "api_id": 51,
+    "api_name": "潜艇装备"
+  },
+  {
+    "api_id": 52,
+    "api_name": "陆战部队"
+  },
+  {
+    "api_id": 53,
+    "api_name": "大型陆上机"
+  },
+  {
+    "api_id": 54,
+    "api_name": "水上舰装备"
+  },
+  {
+    "api_id": 56,
+    "api_name": "喷气式战斗机"
+  },
+  {
+    "api_id": 57,
+    "api_name": "喷气式战斗轰炸机"
+  },
+  {
+    "api_id": 58,
+    "api_name": "喷气式攻击机"
+  },
+  {
+    "api_id": 59,
+    "api_name": "喷气式侦察机"
+  },
+  {
+    "api_id": 91,
+    "api_name": "喷气式战斗轰炸机(II"
+  },
+  {
+    "api_id": 93,
+    "api_name": "大型电探（II）"
+  },
+  {
+    "api_id": 94,
+    "api_name": "舰上侦察机（II）"
+  },
+  {
+    "api_id": 95,
+    "api_name": "副炮（II）"
+  }
+]

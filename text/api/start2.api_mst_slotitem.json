@@ -1,0 +1,2966 @@
+[
+  {
+    "api_id": 1,
+    "api_name": "12cm单装炮"
+  },
+  {
+    "api_id": 2,
+    "api_name": "12.7cm联装炮"
+  },
+  {
+    "api_id": 3,
+    "api_name": "10cm联装高角炮"
+  },
+  {
+    "api_id": 4,
+    "api_name": "14cm单装炮"
+  },
+  {
+    "api_id": 5,
+    "api_name": "15.5cm三联装炮"
+  },
+  {
+    "api_id": 6,
+    "api_name": "20.3cm联装炮"
+  },
+  {
+    "api_id": 7,
+    "api_name": "35.6cm联装炮"
+  },
+  {
+    "api_id": 8,
+    "api_name": "41cm联装炮"
+  },
+  {
+    "api_id": 9,
+    "api_name": "46cm三联装炮"
+  },
+  {
+    "api_id": 10,
+    "api_name": "12.7cm联装高角炮"
+  },
+  {
+    "api_id": 11,
+    "api_name": "15.2cm单装炮"
+  },
+  {
+    "api_id": 12,
+    "api_name": "15.5cm三联装副炮"
+  },
+  {
+    "api_id": 13,
+    "api_name": "61cm三联装鱼雷"
+  },
+  {
+    "api_id": 14,
+    "api_name": "61cm四联装鱼雷"
+  },
+  {
+    "api_id": 15,
+    "api_name": "61cm四联装(氧气)鱼雷"
+  },
+  {
+    "api_id": 16,
+    "api_name": "九七式舰攻"
+  },
+  {
+    "api_id": 17,
+    "api_name": "天山"
+  },
+  {
+    "api_id": 18,
+    "api_name": "流星"
+  },
+  {
+    "api_id": 19,
+    "api_name": "九六式舰战"
+  },
+  {
+    "api_id": 20,
+    "api_name": "零式舰战21型"
+  },
+  {
+    "api_id": 21,
+    "api_name": "零式舰战52型"
+  },
+  {
+    "api_id": 22,
+    "api_name": "试制烈风 后期型"
+  },
+  {
+    "api_id": 23,
+    "api_name": "九九式舰爆"
+  },
+  {
+    "api_id": 24,
+    "api_name": "彗星"
+  },
+  {
+    "api_id": 25,
+    "api_name": "零式水上侦察机"
+  },
+  {
+    "api_id": 26,
+    "api_name": "瑞云"
+  },
+  {
+    "api_id": 27,
+    "api_name": "13号对空电探"
+  },
+  {
+    "api_id": 28,
+    "api_name": "22号对水上电探"
+  },
+  {
+    "api_id": 29,
+    "api_name": "33号对水上电探"
+  },
+  {
+    "api_id": 30,
+    "api_name": "21号对空电探"
+  },
+  {
+    "api_id": 31,
+    "api_name": "32号对水上电探"
+  },
+  {
+    "api_id": 32,
+    "api_name": "42号对空电探"
+  },
+  {
+    "api_id": 33,
+    "api_name": "改良型舰本式涡轮"
+  },
+  {
+    "api_id": 34,
+    "api_name": "强化型舰本式锅炉"
+  },
+  {
+    "api_id": 35,
+    "api_name": "三式弹"
+  },
+  {
+    "api_id": 36,
+    "api_name": "九一式穿甲弹"
+  },
+  {
+    "api_id": 37,
+    "api_name": "7.7mm机枪"
+  },
+  {
+    "api_id": 38,
+    "api_name": "12.7mm单装机枪"
+  },
+  {
+    "api_id": 39,
+    "api_name": "25mm联装机枪"
+  },
+  {
+    "api_id": 40,
+    "api_name": "25mm三联装机枪"
+  },
+  {
+    "api_id": 41,
+    "api_name": "甲标的 甲型"
+  },
+  {
+    "api_id": 42,
+    "api_name": "应急修理要员"
+  },
+  {
+    "api_id": 43,
+    "api_name": "应急修理女神"
+  },
+  {
+    "api_id": 44,
+    "api_name": "九四式爆雷投射机"
+  },
+  {
+    "api_id": 45,
+    "api_name": "三式爆雷投射机"
+  },
+  {
+    "api_id": 46,
+    "api_name": "九三式水中听音机"
+  },
+  {
+    "api_id": 47,
+    "api_name": "三式水中探信仪"
+  },
+  {
+    "api_id": 48,
+    "api_name": "12cm单装高角炮"
+  },
+  {
+    "api_id": 49,
+    "api_name": "25mm单装机枪"
+  },
+  {
+    "api_id": 50,
+    "api_name": "20.3cm(3号)联装炮"
+  },
+  {
+    "api_id": 51,
+    "api_name": "12cm30联装喷进炮"
+  },
+  {
+    "api_id": 52,
+    "api_name": "流星改"
+  },
+  {
+    "api_id": 53,
+    "api_name": "烈风 一一型"
+  },
+  {
+    "api_id": 54,
+    "api_name": "彩云"
+  },
+  {
+    "api_id": 55,
+    "api_name": "紫电改二"
+  },
+  {
+    "api_id": 56,
+    "api_name": "震电改"
+  },
+  {
+    "api_id": 57,
+    "api_name": "彗星一二型甲"
+  },
+  {
+    "api_id": 58,
+    "api_name": "61cm五联装(氧气)鱼雷"
+  },
+  {
+    "api_id": 59,
+    "api_name": "零式水上观测机"
+  },
+  {
+    "api_id": 60,
+    "api_name": "零式舰战62型(爆战)"
+  },
+  {
+    "api_id": 61,
+    "api_name": "二式舰上侦察机"
+  },
+  {
+    "api_id": 62,
+    "api_name": "试制晴岚"
+  },
+  {
+    "api_id": 63,
+    "api_name": "12.7cm联装炮B型改二"
+  },
+  {
+    "api_id": 64,
+    "api_name": "Ju87C改"
+  },
+  {
+    "api_id": 65,
+    "api_name": "15.2cm联装炮"
+  },
+  {
+    "api_id": 66,
+    "api_name": "8cm高角炮"
+  },
+  {
+    "api_id": 67,
+    "api_name": "53cm舰首(氧气)鱼雷"
+  },
+  {
+    "api_id": 68,
+    "api_name": "大发动艇"
+  },
+  {
+    "api_id": 69,
+    "api_name": "Ka号观测机"
+  },
+  {
+    "api_id": 70,
+    "api_name": "三式指挥联络机(对潜)"
+  },
+  {
+    "api_id": 71,
+    "api_name": "10cm联装高角炮(炮架)"
+  },
+  {
+    "api_id": 72,
+    "api_name": "防雷鼓包(中型舰)"
+  },
+  {
+    "api_id": 73,
+    "api_name": "防雷鼓包(大型舰)"
+  },
+  {
+    "api_id": 74,
+    "api_name": "探照灯"
+  },
+  {
+    "api_id": 75,
+    "api_name": "油桶(运输用)"
+  },
+  {
+    "api_id": 76,
+    "api_name": "38cm联装炮"
+  },
+  {
+    "api_id": 77,
+    "api_name": "15cm联装副炮"
+  },
+  {
+    "api_id": 78,
+    "api_name": "12.7cm单装炮"
+  },
+  {
+    "api_id": 79,
+    "api_name": "瑞云(六三四空)"
+  },
+  {
+    "api_id": 80,
+    "api_name": "瑞云12型"
+  },
+  {
+    "api_id": 81,
+    "api_name": "瑞云12型(六三四空)"
+  },
+  {
+    "api_id": 82,
+    "api_name": "九七式舰攻(九三一空)"
+  },
+  {
+    "api_id": 83,
+    "api_name": "天山(九三一空)"
+  },
+  {
+    "api_id": 84,
+    "api_name": "2cm四联装FlaK 38"
+  },
+  {
+    "api_id": 85,
+    "api_name": "3.7cm FlaK M42"
+  },
+  {
+    "api_id": 86,
+    "api_name": "舰艇修理设施"
+  },
+  {
+    "api_id": 87,
+    "api_name": "新型高温高压锅炉"
+  },
+  {
+    "api_id": 88,
+    "api_name": "22号对水上电探改四"
+  },
+  {
+    "api_id": 89,
+    "api_name": "21号对空电探改"
+  },
+  {
+    "api_id": 90,
+    "api_name": "20.3cm(2号)联装炮"
+  },
+  {
+    "api_id": 91,
+    "api_name": "12.7cm联装高角炮(后期型)"
+  },
+  {
+    "api_id": 92,
+    "api_name": "毘式40mm联装机枪"
+  },
+  {
+    "api_id": 93,
+    "api_name": "九七式舰攻(友永队)"
+  },
+  {
+    "api_id": 94,
+    "api_name": "天山一二型(友永队)"
+  },
+  {
+    "api_id": 95,
+    "api_name": "潜艇53cm舰首鱼雷(8门)"
+  },
+  {
+    "api_id": 96,
+    "api_name": "零式舰战21型(熟练)"
+  },
+  {
+    "api_id": 97,
+    "api_name": "九九式舰爆(熟练)"
+  },
+  {
+    "api_id": 98,
+    "api_name": "九七式舰攻(熟练)"
+  },
+  {
+    "api_id": 99,
+    "api_name": "九九式舰爆(江草队)"
+  },
+  {
+    "api_id": 100,
+    "api_name": "彗星(江草队)"
+  },
+  {
+    "api_id": 101,
+    "api_name": "照明弹"
+  },
+  {
+    "api_id": 102,
+    "api_name": "九八式水上侦察机(夜侦)"
+  },
+  {
+    "api_id": 103,
+    "api_name": "试制35.6cm三联装炮"
+  },
+  {
+    "api_id": 104,
+    "api_name": "35.6cm联装炮(炫目迷彩)"
+  },
+  {
+    "api_id": 105,
+    "api_name": "试制41cm三联装炮"
+  },
+  {
+    "api_id": 106,
+    "api_name": "13号对空电探改"
+  },
+  {
+    "api_id": 107,
+    "api_name": "舰队司令部设施"
+  },
+  {
+    "api_id": 108,
+    "api_name": "熟练舰载机整备员"
+  },
+  {
+    "api_id": 109,
+    "api_name": "零战52型丙(六〇一空)"
+  },
+  {
+    "api_id": 110,
+    "api_name": "烈风(六〇一空)"
+  },
+  {
+    "api_id": 111,
+    "api_name": "彗星(六〇一空)"
+  },
+  {
+    "api_id": 112,
+    "api_name": "天山(六〇一空)"
+  },
+  {
+    "api_id": 113,
+    "api_name": "流星(六〇一空)"
+  },
+  {
+    "api_id": 114,
+    "api_name": "38cm联装炮改"
+  },
+  {
+    "api_id": 115,
+    "api_name": "Ar196改"
+  },
+  {
+    "api_id": 116,
+    "api_name": "一式穿甲弹"
+  },
+  {
+    "api_id": 117,
+    "api_name": "试制46cm联装炮"
+  },
+  {
+    "api_id": 118,
+    "api_name": "紫云"
+  },
+  {
+    "api_id": 119,
+    "api_name": "14cm联装炮"
+  },
+  {
+    "api_id": 120,
+    "api_name": "91式高射装置"
+  },
+  {
+    "api_id": 121,
+    "api_name": "94式高射装置"
+  },
+  {
+    "api_id": 122,
+    "api_name": "10cm联装高角炮+高射装置"
+  },
+  {
+    "api_id": 123,
+    "api_name": "SKC34 20.3cm联装炮"
+  },
+  {
+    "api_id": 124,
+    "api_name": "FuMO25 雷达"
+  },
+  {
+    "api_id": 125,
+    "api_name": "61cm三联装(氧气)鱼雷"
+  },
+  {
+    "api_id": 126,
+    "api_name": "WG42 (Wurfgerät 42)"
+  },
+  {
+    "api_id": 127,
+    "api_name": "试制FaT规格九五式氧气鱼雷改"
+  },
+  {
+    "api_id": 128,
+    "api_name": "试制51cm联装炮"
+  },
+  {
+    "api_id": 129,
+    "api_name": "熟练瞭望员"
+  },
+  {
+    "api_id": 130,
+    "api_name": "12.7cm高角炮+高射装置"
+  },
+  {
+    "api_id": 131,
+    "api_name": "25mm三联装机枪 集中部署"
+  },
+  {
+    "api_id": 132,
+    "api_name": "零式水中听音机"
+  },
+  {
+    "api_id": 133,
+    "api_name": "381mm/50三联装炮"
+  },
+  {
+    "api_id": 134,
+    "api_name": "OTO 152mm三联装速射炮"
+  },
+  {
+    "api_id": 135,
+    "api_name": "90mm单装高角炮"
+  },
+  {
+    "api_id": 136,
+    "api_name": "普列赛式水下防御隔壁"
+  },
+  {
+    "api_id": 137,
+    "api_name": "381mm/50三联装炮改"
+  },
+  {
+    "api_id": 138,
+    "api_name": "二式大艇"
+  },
+  {
+    "api_id": 139,
+    "api_name": "15.2cm联装炮改"
+  },
+  {
+    "api_id": 140,
+    "api_name": "96式150cm探照灯"
+  },
+  {
+    "api_id": 141,
+    "api_name": "32号对水上电探改"
+  },
+  {
+    "api_id": 142,
+    "api_name": "15m双重测距仪+21号电探改二"
+  },
+  {
+    "api_id": 143,
+    "api_name": "九七式舰攻(村田队)"
+  },
+  {
+    "api_id": 144,
+    "api_name": "天山一二型(村田队)"
+  },
+  {
+    "api_id": 145,
+    "api_name": "战斗粮食"
+  },
+  {
+    "api_id": 146,
+    "api_name": "洋上补给"
+  },
+  {
+    "api_id": 147,
+    "api_name": "120mm/50联装炮"
+  },
+  {
+    "api_id": 148,
+    "api_name": "试制南山"
+  },
+  {
+    "api_id": 149,
+    "api_name": "四式水中听音机"
+  },
+  {
+    "api_id": 150,
+    "api_name": "秋刀鱼罐头"
+  },
+  {
+    "api_id": 151,
+    "api_name": "试制景云(舰侦型)"
+  },
+  {
+    "api_id": 152,
+    "api_name": "零式舰战52型(熟练)"
+  },
+  {
+    "api_id": 153,
+    "api_name": "零战52型丙(附岩井小队)"
+  },
+  {
+    "api_id": 154,
+    "api_name": "零战62型(爆战/岩井队)"
+  },
+  {
+    "api_id": 155,
+    "api_name": "零战21型(附岩本小队)"
+  },
+  {
+    "api_id": 156,
+    "api_name": "零战52型甲(附岩本小队)"
+  },
+  {
+    "api_id": 157,
+    "api_name": "零式舰战53型(岩本队)"
+  },
+  {
+    "api_id": 158,
+    "api_name": "Bf109T改"
+  },
+  {
+    "api_id": 159,
+    "api_name": "Fw190T改"
+  },
+  {
+    "api_id": 160,
+    "api_name": "10.5cm联装炮"
+  },
+  {
+    "api_id": 161,
+    "api_name": "16inch三联装炮 Mk.7"
+  },
+  {
+    "api_id": 162,
+    "api_name": "203mm/53联装炮"
+  },
+  {
+    "api_id": 163,
+    "api_name": "Ro.43水侦"
+  },
+  {
+    "api_id": 164,
+    "api_name": "Ro.44水上战斗机"
+  },
+  {
+    "api_id": 165,
+    "api_name": "二式水战改"
+  },
+  {
+    "api_id": 166,
+    "api_name": "大发动艇(八九式中型坦克&陆战队)"
+  },
+  {
+    "api_id": 167,
+    "api_name": "特二式内火艇"
+  },
+  {
+    "api_id": 168,
+    "api_name": "九六式陆攻"
+  },
+  {
+    "api_id": 169,
+    "api_name": "一式陆攻"
+  },
+  {
+    "api_id": 170,
+    "api_name": "一式陆攻(野中队)"
+  },
+  {
+    "api_id": 171,
+    "api_name": "OS2U"
+  },
+  {
+    "api_id": 172,
+    "api_name": "5inch联装炮 Mk.28 mod.2"
+  },
+  {
+    "api_id": 173,
+    "api_name": "Bofors 40mm四联装机关炮"
+  },
+  {
+    "api_id": 174,
+    "api_name": "53cm联装鱼雷"
+  },
+  {
+    "api_id": 175,
+    "api_name": "雷电"
+  },
+  {
+    "api_id": 176,
+    "api_name": "三式战 飞燕"
+  },
+  {
+    "api_id": 177,
+    "api_name": "三式战 飞燕(飞行第244战队)"
+  },
+  {
+    "api_id": 178,
+    "api_name": "PBY-5A Catalina"
+  },
+  {
+    "api_id": 179,
+    "api_name": "试制61cm六联装(氧气)鱼雷"
+  },
+  {
+    "api_id": 180,
+    "api_name": "一式陆攻 二二型甲"
+  },
+  {
+    "api_id": 181,
+    "api_name": "零式舰战32型"
+  },
+  {
+    "api_id": 182,
+    "api_name": "零式舰战32型(熟练)"
+  },
+  {
+    "api_id": 183,
+    "api_name": "16inch三联装炮 Mk.7+GFCS"
+  },
+  {
+    "api_id": 184,
+    "api_name": "Re.2001 OR改"
+  },
+  {
+    "api_id": 185,
+    "api_name": "三式战 飞燕一型丁"
+  },
+  {
+    "api_id": 186,
+    "api_name": "一式陆攻 三四型"
+  },
+  {
+    "api_id": 187,
+    "api_name": "银河"
+  },
+  {
+    "api_id": 188,
+    "api_name": "Re.2001 G改"
+  },
+  {
+    "api_id": 189,
+    "api_name": "Re.2005 改"
+  },
+  {
+    "api_id": 190,
+    "api_name": "38.1cm Mk.I联装炮"
+  },
+  {
+    "api_id": 191,
+    "api_name": "QF 2磅8联装砰砰炮"
+  },
+  {
+    "api_id": 192,
+    "api_name": "38.1cm Mk.I/N联装炮改"
+  },
+  {
+    "api_id": 193,
+    "api_name": "特大发动艇"
+  },
+  {
+    "api_id": 194,
+    "api_name": "Laté 298B"
+  },
+  {
+    "api_id": 195,
+    "api_name": "SBD"
+  },
+  {
+    "api_id": 196,
+    "api_name": "TBD"
+  },
+  {
+    "api_id": 197,
+    "api_name": "F4F-3"
+  },
+  {
+    "api_id": 198,
+    "api_name": "F4F-4"
+  },
+  {
+    "api_id": 199,
+    "api_name": "喷式景云改"
+  },
+  {
+    "api_id": 200,
+    "api_name": "橘花改"
+  },
+  {
+    "api_id": 201,
+    "api_name": "紫电一一型"
+  },
+  {
+    "api_id": 202,
+    "api_name": "紫电二一型 紫电改"
+  },
+  {
+    "api_id": 203,
+    "api_name": "舰本新设计 防雷鼓包(中型舰)"
+  },
+  {
+    "api_id": 204,
+    "api_name": "舰本新设计 防雷鼓包(大型舰)"
+  },
+  {
+    "api_id": 205,
+    "api_name": "F6F-3"
+  },
+  {
+    "api_id": 206,
+    "api_name": "F6F-5"
+  },
+  {
+    "api_id": 207,
+    "api_name": "瑞云(六三一空)"
+  },
+  {
+    "api_id": 208,
+    "api_name": "晴岚(六三一空)"
+  },
+  {
+    "api_id": 209,
+    "api_name": "彩云(运输用已分解)"
+  },
+  {
+    "api_id": 210,
+    "api_name": "潜艇搭载电探&水防式望远镜"
+  },
+  {
+    "api_id": 211,
+    "api_name": "潜艇搭载电探&逆探(E27)"
+  },
+  {
+    "api_id": 212,
+    "api_name": "彩云(东卡罗林空)"
+  },
+  {
+    "api_id": 213,
+    "api_name": "后期型舰首鱼雷(6门)"
+  },
+  {
+    "api_id": 214,
+    "api_name": "熟练听音员+后期型舰首鱼雷(6门)"
+  },
+  {
+    "api_id": 215,
+    "api_name": "Ro.44水上战斗机bis"
+  },
+  {
+    "api_id": 216,
+    "api_name": "二式水战改(熟练)"
+  },
+  {
+    "api_id": 217,
+    "api_name": "强风改"
+  },
+  {
+    "api_id": 218,
+    "api_name": "四式战疾风"
+  },
+  {
+    "api_id": 219,
+    "api_name": "零式舰战63型(爆战)"
+  },
+  {
+    "api_id": 220,
+    "api_name": "8cm高角炮改+增设机枪"
+  },
+  {
+    "api_id": 221,
+    "api_name": "一式战 隼II型"
+  },
+  {
+    "api_id": 222,
+    "api_name": "一式战 隼III型甲"
+  },
+  {
+    "api_id": 223,
+    "api_name": "一式战 隼III型甲(54战队)"
+  },
+  {
+    "api_id": 224,
+    "api_name": "爆装一式战 隼III型改(65战队)"
+  },
+  {
+    "api_id": 225,
+    "api_name": "一式战 隼II型(64战队)"
+  },
+  {
+    "api_id": 226,
+    "api_name": "九五式爆雷"
+  },
+  {
+    "api_id": 227,
+    "api_name": "二式爆雷"
+  },
+  {
+    "api_id": 228,
+    "api_name": "九六式舰战改"
+  },
+  {
+    "api_id": 229,
+    "api_name": "12.7cm单装高角炮(后期型)"
+  },
+  {
+    "api_id": 230,
+    "api_name": "特大发动艇+坦克第11联队"
+  },
+  {
+    "api_id": 231,
+    "api_name": "30.5cm三联装炮"
+  },
+  {
+    "api_id": 232,
+    "api_name": "30.5cm三联装炮改"
+  },
+  {
+    "api_id": 233,
+    "api_name": "F4U-1D"
+  },
+  {
+    "api_id": 234,
+    "api_name": "15.5cm三联装副炮改"
+  },
+  {
+    "api_id": 235,
+    "api_name": "15.5cm三联装炮改"
+  },
+  {
+    "api_id": 236,
+    "api_name": "41cm三联装炮改"
+  },
+  {
+    "api_id": 237,
+    "api_name": "瑞云(六三四空/熟练)"
+  },
+  {
+    "api_id": 238,
+    "api_name": "零式水上侦察机11型乙"
+  },
+  {
+    "api_id": 239,
+    "api_name": "零式水上侦察机11型乙(熟练)"
+  },
+  {
+    "api_id": 240,
+    "api_name": "22号对水上电探改四(后期调整型)"
+  },
+  {
+    "api_id": 241,
+    "api_name": "战斗粮食(特别的饭团)"
+  },
+  {
+    "api_id": 242,
+    "api_name": "Swordfish"
+  },
+  {
+    "api_id": 243,
+    "api_name": "Swordfish Mk.II(熟练)"
+  },
+  {
+    "api_id": 244,
+    "api_name": "Swordfish Mk.III(熟练)"
+  },
+  {
+    "api_id": 245,
+    "api_name": "38cm四联装炮"
+  },
+  {
+    "api_id": 246,
+    "api_name": "38cm四联装炮改"
+  },
+  {
+    "api_id": 247,
+    "api_name": "15.2cm三联装炮"
+  },
+  {
+    "api_id": 248,
+    "api_name": "Skua"
+  },
+  {
+    "api_id": 249,
+    "api_name": "Fulmar"
+  },
+  {
+    "api_id": 250,
+    "api_name": "Spitfire Mk.I"
+  },
+  {
+    "api_id": 251,
+    "api_name": "Spitfire Mk.V"
+  },
+  {
+    "api_id": 252,
+    "api_name": "Seafire Mk.III改"
+  },
+  {
+    "api_id": 253,
+    "api_name": "Spitfire Mk.IX(熟练)"
+  },
+  {
+    "api_id": 254,
+    "api_name": "F6F-3N"
+  },
+  {
+    "api_id": 255,
+    "api_name": "F6F-5N"
+  },
+  {
+    "api_id": 256,
+    "api_name": "TBF"
+  },
+  {
+    "api_id": 257,
+    "api_name": "TBM-3D"
+  },
+  {
+    "api_id": 258,
+    "api_name": "夜间作战航空要员"
+  },
+  {
+    "api_id": 259,
+    "api_name": "夜间作战航空要员+熟练甲板员"
+  },
+  {
+    "api_id": 260,
+    "api_name": "Type124 ASDIC"
+  },
+  {
+    "api_id": 261,
+    "api_name": "Type144/147 ASDIC"
+  },
+  {
+    "api_id": 262,
+    "api_name": "HF/DF + Type144/147 ASDIC"
+  },
+  {
+    "api_id": 263,
+    "api_name": "紫电改(三四三空) 战斗301"
+  },
+  {
+    "api_id": 264,
+    "api_name": "紫电改(三四三空) 战斗701"
+  },
+  {
+    "api_id": 265,
+    "api_name": "紫电改(三四三空) 战斗407"
+  },
+  {
+    "api_id": 266,
+    "api_name": "12.7cm联装炮C型改二"
+  },
+  {
+    "api_id": 267,
+    "api_name": "12.7cm联装炮D型改二"
+  },
+  {
+    "api_id": 268,
+    "api_name": "北方迷彩(+北方装备)"
+  },
+  {
+    "api_id": 269,
+    "api_name": "试制东海"
+  },
+  {
+    "api_id": 270,
+    "api_name": "东海(九〇一空)"
+  },
+  {
+    "api_id": 271,
+    "api_name": "紫电改四"
+  },
+  {
+    "api_id": 272,
+    "api_name": "游击部队 舰队司令部"
+  },
+  {
+    "api_id": 273,
+    "api_name": "彩云(侦四)"
+  },
+  {
+    "api_id": 274,
+    "api_name": "12cm30联装喷进炮改二"
+  },
+  {
+    "api_id": 275,
+    "api_name": "10cm联装高角炮改+增设机枪"
+  },
+  {
+    "api_id": 276,
+    "api_name": "46cm三联装炮改"
+  },
+  {
+    "api_id": 277,
+    "api_name": "FM-2"
+  },
+  {
+    "api_id": 278,
+    "api_name": "SK 雷达"
+  },
+  {
+    "api_id": 279,
+    "api_name": "SK+SG 雷达"
+  },
+  {
+    "api_id": 280,
+    "api_name": "QF 4.7inch炮 Mk.XII改"
+  },
+  {
+    "api_id": 281,
+    "api_name": "51cm联装炮"
+  },
+  {
+    "api_id": 282,
+    "api_name": "130mm B-13联装炮"
+  },
+  {
+    "api_id": 283,
+    "api_name": "533mm三联装鱼雷"
+  },
+  {
+    "api_id": 284,
+    "api_name": "5inch单装炮 Mk.30"
+  },
+  {
+    "api_id": 285,
+    "api_name": "61cm三联装(氧气)鱼雷后期型"
+  },
+  {
+    "api_id": 286,
+    "api_name": "61cm四联装(氧气)鱼雷后期型"
+  },
+  {
+    "api_id": 287,
+    "api_name": "三式爆雷投射机集中部署"
+  },
+  {
+    "api_id": 288,
+    "api_name": "试制15cm9联装对潜喷进炮"
+  },
+  {
+    "api_id": 289,
+    "api_name": "35.6cm三联装炮改(炫目迷彩规格)"
+  },
+  {
+    "api_id": 290,
+    "api_name": "41cm三联装炮改二"
+  },
+  {
+    "api_id": 291,
+    "api_name": "彗星二二型(六三四空)"
+  },
+  {
+    "api_id": 292,
+    "api_name": "彗星二二型(六三四空/熟练)"
+  },
+  {
+    "api_id": 293,
+    "api_name": "12cm单装炮改二"
+  },
+  {
+    "api_id": 294,
+    "api_name": "12.7cm联装炮A型改二"
+  },
+  {
+    "api_id": 295,
+    "api_name": "12.7cm联装炮A型改三(战时改修)+高射装置"
+  },
+  {
+    "api_id": 296,
+    "api_name": "12.7cm联装炮B型改四(战时改修)+高射装置"
+  },
+  {
+    "api_id": 297,
+    "api_name": "12.7cm联装炮A型"
+  },
+  {
+    "api_id": 298,
+    "api_name": "16inch Mk.I三联装炮"
+  },
+  {
+    "api_id": 299,
+    "api_name": "16inch Mk.I三联装炮+AFCT改"
+  },
+  {
+    "api_id": 300,
+    "api_name": "16inch Mk.I三联装炮改+FCR type284"
+  },
+  {
+    "api_id": 301,
+    "api_name": "20联装7inch UP Rocket Launchers"
+  },
+  {
+    "api_id": 302,
+    "api_name": "九七式舰攻(九三一空/熟练)"
+  },
+  {
+    "api_id": 303,
+    "api_name": "Bofors 15.2cm联装炮 Model 1930"
+  },
+  {
+    "api_id": 304,
+    "api_name": "S9 Osprey"
+  },
+  {
+    "api_id": 305,
+    "api_name": "Ju87C改二(KMX搭载机)"
+  },
+  {
+    "api_id": 306,
+    "api_name": "Ju87C改二(KMX搭载机/熟练)"
+  },
+  {
+    "api_id": 307,
+    "api_name": "GFCS Mk.37"
+  },
+  {
+    "api_id": 308,
+    "api_name": "5inch单装炮 Mk.30改+GFCS Mk.37"
+  },
+  {
+    "api_id": 309,
+    "api_name": "甲标的 丙型"
+  },
+  {
+    "api_id": 310,
+    "api_name": "14cm联装炮改"
+  },
+  {
+    "api_id": 311,
+    "api_name": "二式陆上侦察机"
+  },
+  {
+    "api_id": 312,
+    "api_name": "二式陆上侦察机(熟练)"
+  },
+  {
+    "api_id": 313,
+    "api_name": "5inch单装炮 Mk.30改"
+  },
+  {
+    "api_id": 314,
+    "api_name": "533mm五联装鱼雷(初期型)"
+  },
+  {
+    "api_id": 315,
+    "api_name": "SG 雷达(初期型)"
+  },
+  {
+    "api_id": 316,
+    "api_name": "Re.2001 CB改"
+  },
+  {
+    "api_id": 317,
+    "api_name": "三式弹改"
+  },
+  {
+    "api_id": 318,
+    "api_name": "41cm联装炮改二"
+  },
+  {
+    "api_id": 319,
+    "api_name": "彗星一二型(六三四空/三号炸弹搭载机)"
+  },
+  {
+    "api_id": 320,
+    "api_name": "彗星一二型(三一号光电管炸弹搭载机)"
+  },
+  {
+    "api_id": 322,
+    "api_name": "瑞云改二(六三四空)"
+  },
+  {
+    "api_id": 323,
+    "api_name": "瑞云改二(六三四空/熟练)"
+  },
+  {
+    "api_id": 324,
+    "api_name": "O号观测机改"
+  },
+  {
+    "api_id": 325,
+    "api_name": "O号观测机改二"
+  },
+  {
+    "api_id": 326,
+    "api_name": "S-51J"
+  },
+  {
+    "api_id": 327,
+    "api_name": "S-51J改"
+  },
+  {
+    "api_id": 328,
+    "api_name": "35.6cm联装炮改"
+  },
+  {
+    "api_id": 329,
+    "api_name": "35.6cm联装炮改二"
+  },
+  {
+    "api_id": 330,
+    "api_name": "16inch Mk.I联装炮"
+  },
+  {
+    "api_id": 331,
+    "api_name": "16inch Mk.V联装炮"
+  },
+  {
+    "api_id": 332,
+    "api_name": "16inch Mk.VIII联装炮改"
+  },
+  {
+    "api_id": 333,
+    "api_name": "烈风改"
+  },
+  {
+    "api_id": 334,
+    "api_name": "烈风改(三五二空/熟练)"
+  },
+  {
+    "api_id": 335,
+    "api_name": "烈风改(试制舰载型)"
+  },
+  {
+    "api_id": 336,
+    "api_name": "烈风改二"
+  },
+  {
+    "api_id": 337,
+    "api_name": "烈风改二(一航战/熟练)"
+  },
+  {
+    "api_id": 338,
+    "api_name": "烈风改二戊型"
+  },
+  {
+    "api_id": 339,
+    "api_name": "烈风改二戊型(一航战/熟练)"
+  },
+  {
+    "api_id": 340,
+    "api_name": "152mm/55三联装速射炮"
+  },
+  {
+    "api_id": 341,
+    "api_name": "152mm/55三联装速射炮改"
+  },
+  {
+    "api_id": 342,
+    "api_name": "流星改(一航战)"
+  },
+  {
+    "api_id": 343,
+    "api_name": "流星改(一航战/熟练)"
+  },
+  {
+    "api_id": 344,
+    "api_name": "九七式舰攻改 试制三号戊型(空六号电探改装备机)"
+  },
+  {
+    "api_id": 345,
+    "api_name": "九七式舰攻改(熟练) 试制三号戊型(空六号电探改装备机)"
+  },
+  {
+    "api_id": 346,
+    "api_name": "二式12cm迫击炮改"
+  },
+  {
+    "api_id": 347,
+    "api_name": "二式12cm迫击炮改集中部署"
+  },
+  {
+    "api_id": 348,
+    "api_name": "舰载型 四式20cm对地喷进炮"
+  },
+  {
+    "api_id": 349,
+    "api_name": "四式20cm对地喷进炮 集中部署"
+  },
+  {
+    "api_id": 350,
+    "api_name": "Me163B"
+  },
+  {
+    "api_id": 351,
+    "api_name": "试制秋水"
+  },
+  {
+    "api_id": 352,
+    "api_name": "秋水"
+  },
+  {
+    "api_id": 353,
+    "api_name": "Fw190 A-5改(熟练)"
+  },
+  {
+    "api_id": 354,
+    "api_name": "Fw190 D-9"
+  },
+  {
+    "api_id": 355,
+    "api_name": "M4A1 DD"
+  },
+  {
+    "api_id": 356,
+    "api_name": "8inch三联装炮 Mk.9"
+  },
+  {
+    "api_id": 357,
+    "api_name": "8inch三联装炮 Mk.9 mod.2"
+  },
+  {
+    "api_id": 358,
+    "api_name": "5inch单装高角炮群"
+  },
+  {
+    "api_id": 359,
+    "api_name": "6inch联装速射炮 Mk.XXI"
+  },
+  {
+    "api_id": 360,
+    "api_name": "Bofors 15cm联装速射炮 Mk.9 Model 1938"
+  },
+  {
+    "api_id": 361,
+    "api_name": "Bofors 15cm联装速射炮 Mk.9改+单装速射炮 Mk.10改 Model 1938"
+  },
+  {
+    "api_id": 362,
+    "api_name": "5inch联装两用炮(集中部署)"
+  },
+  {
+    "api_id": 363,
+    "api_name": "GFCS Mk.37+5inch联装两用炮(集中部署)"
+  },
+  {
+    "api_id": 364,
+    "api_name": "甲标的 丁型改(蛟龙改)"
+  },
+  {
+    "api_id": 365,
+    "api_name": "一式穿甲弹改"
+  },
+  {
+    "api_id": 366,
+    "api_name": "12.7cm联装炮D型改三"
+  },
+  {
+    "api_id": 367,
+    "api_name": "Swordfish(水上机型)"
+  },
+  {
+    "api_id": 368,
+    "api_name": "Swordfish Mk.III改(水上机型)"
+  },
+  {
+    "api_id": 369,
+    "api_name": "Swordfish Mk.III改(水上机型/熟练)"
+  },
+  {
+    "api_id": 370,
+    "api_name": "Swordfish Mk.II改(水侦型)"
+  },
+  {
+    "api_id": 371,
+    "api_name": "Fairey Seafox改"
+  },
+  {
+    "api_id": 372,
+    "api_name": "天山一二型甲"
+  },
+  {
+    "api_id": 373,
+    "api_name": "天山一二型甲改(空六号电探改装备机)"
+  },
+  {
+    "api_id": 374,
+    "api_name": "天山一二型甲改(熟练/空六号电探改装备机)"
+  },
+  {
+    "api_id": 375,
+    "api_name": "XF5U"
+  },
+  {
+    "api_id": 376,
+    "api_name": "533mm五联装鱼雷(后期型)"
+  },
+  {
+    "api_id": 377,
+    "api_name": "RUR-4A Weapon Alpha改"
+  },
+  {
+    "api_id": 378,
+    "api_name": "对潜短鱼雷(试作初期型)"
+  },
+  {
+    "api_id": 379,
+    "api_name": "12.7cm单装高角炮改二"
+  },
+  {
+    "api_id": 380,
+    "api_name": "12.7cm联装高角炮改二"
+  },
+  {
+    "api_id": 381,
+    "api_name": "16inch三联装炮 Mk.6"
+  },
+  {
+    "api_id": 382,
+    "api_name": "12cm单装高角炮E型"
+  },
+  {
+    "api_id": 383,
+    "api_name": "后期型53cm舰首鱼雷(8门)"
+  },
+  {
+    "api_id": 384,
+    "api_name": "后期型潜艇搭载电探&逆探"
+  },
+  {
+    "api_id": 385,
+    "api_name": "16inch三联装炮 Mk.6 mod.2"
+  },
+  {
+    "api_id": 386,
+    "api_name": "6inch三联装速射炮 Mk.16"
+  },
+  {
+    "api_id": 387,
+    "api_name": "6inch三联装速射炮 Mk.16 mod.2"
+  },
+  {
+    "api_id": 388,
+    "api_name": "银河(江草队)"
+  },
+  {
+    "api_id": 389,
+    "api_name": "TBM-3W+3S"
+  },
+  {
+    "api_id": 390,
+    "api_name": "16inch三联装炮 Mk.6+GFCS"
+  },
+  {
+    "api_id": 391,
+    "api_name": "九九式舰爆二二型"
+  },
+  {
+    "api_id": 392,
+    "api_name": "九九式舰爆二二型(熟练)"
+  },
+  {
+    "api_id": 393,
+    "api_name": "120mm/50联装炮 mod.1936"
+  },
+  {
+    "api_id": 394,
+    "api_name": "120mm/50联装炮改 A.mod.1937"
+  },
+  {
+    "api_id": 395,
+    "api_name": "深山"
+  },
+  {
+    "api_id": 396,
+    "api_name": "深山改"
+  },
+  {
+    "api_id": 397,
+    "api_name": "現地改装12.7cm联装高角炮"
+  },
+  {
+    "api_id": 398,
+    "api_name": "現地改装10cm联装高角炮"
+  },
+  {
+    "api_id": 399,
+    "api_name": "6inch Mk.XXIII三联装炮"
+  },
+  {
+    "api_id": 400,
+    "api_name": "533mm三联装鱼雷(53-39型)"
+  },
+  {
+    "api_id": 401,
+    "api_name": "Do 17 Z-2"
+  },
+  {
+    "api_id": 402,
+    "api_name": "寒冷地装备&甲板要员"
+  },
+  {
+    "api_id": 403,
+    "api_name": "四式重爆 飞龙"
+  },
+  {
+    "api_id": 404,
+    "api_name": "四式重爆 飞龙(熟练)"
+  },
+  {
+    "api_id": 405,
+    "api_name": "Do 217 E-5+Hs293初期型"
+  },
+  {
+    "api_id": 406,
+    "api_name": "Do 217 K-2+Fritz-X"
+  },
+  {
+    "api_id": 407,
+    "api_name": "15.2cm联装炮改二"
+  },
+  {
+    "api_id": 408,
+    "api_name": "装甲艇(AB艇)"
+  },
+  {
+    "api_id": 409,
+    "api_name": "武装大发"
+  },
+  {
+    "api_id": 410,
+    "api_name": "21号对空电探改二"
+  },
+  {
+    "api_id": 411,
+    "api_name": "42号对空电探改二"
+  },
+  {
+    "api_id": 412,
+    "api_name": "水雷战队 熟练瞭望员"
+  },
+  {
+    "api_id": 413,
+    "api_name": "精锐水雷战队 司令部"
+  },
+  {
+    "api_id": 414,
+    "api_name": "SOC Seagull"
+  },
+  {
+    "api_id": 415,
+    "api_name": "SO3C Seamew改"
+  },
+  {
+    "api_id": 416,
+    "api_name": "零式舰战21型(台南空)"
+  },
+  {
+    "api_id": 417,
+    "api_name": "零式舰战32型(台南空)"
+  },
+  {
+    "api_id": 418,
+    "api_name": "零式舰战22型(251空)"
+  },
+  {
+    "api_id": 419,
+    "api_name": "SBD-5"
+  },
+  {
+    "api_id": 420,
+    "api_name": "SB2C-3"
+  },
+  {
+    "api_id": 421,
+    "api_name": "SB2C-5"
+  },
+  {
+    "api_id": 422,
+    "api_name": "FR-1 Fireball"
+  },
+  {
+    "api_id": 423,
+    "api_name": "Fulmar(战斗侦察/熟练)"
+  },
+  {
+    "api_id": 424,
+    "api_name": "Barracuda Mk.II"
+  },
+  {
+    "api_id": 425,
+    "api_name": "Barracuda Mk.III"
+  },
+  {
+    "api_id": 426,
+    "api_name": "305mm/46联装炮"
+  },
+  {
+    "api_id": 427,
+    "api_name": "305mm/46三联装炮"
+  },
+  {
+    "api_id": 428,
+    "api_name": "320mm/44联装炮"
+  },
+  {
+    "api_id": 429,
+    "api_name": "320mm/44三联装炮"
+  },
+  {
+    "api_id": 430,
+    "api_name": "65mm/64单装速射炮改"
+  },
+  {
+    "api_id": 431,
+    "api_name": "SM.79"
+  },
+  {
+    "api_id": 432,
+    "api_name": "SM.79 bis"
+  },
+  {
+    "api_id": 433,
+    "api_name": "SM.79 bis(熟练)"
+  },
+  {
+    "api_id": 434,
+    "api_name": "Corsair Mk.II"
+  },
+  {
+    "api_id": 435,
+    "api_name": "Corsair Mk.II(Ace)"
+  },
+  {
+    "api_id": 436,
+    "api_name": "大发动艇(II号坦克/北非规格)"
+  },
+  {
+    "api_id": 437,
+    "api_name": "试制阵风"
+  },
+  {
+    "api_id": 438,
+    "api_name": "三式水中探信仪改"
+  },
+  {
+    "api_id": 439,
+    "api_name": "Hedgehog(初期型)"
+  },
+  {
+    "api_id": 440,
+    "api_name": "21inch舰首鱼雷发射管6门(初期型)"
+  },
+  {
+    "api_id": 441,
+    "api_name": "21inch舰首鱼雷发射管6门(后期型)"
+  },
+  {
+    "api_id": 442,
+    "api_name": "潜艇后部鱼雷发射管4门(初期型)"
+  },
+  {
+    "api_id": 443,
+    "api_name": "潜艇后部鱼雷发射管4门(后期型)"
+  },
+  {
+    "api_id": 444,
+    "api_name": "四式重爆 飞龙+I号一型甲 诱导弹"
+  },
+  {
+    "api_id": 445,
+    "api_name": "二式复战 屠龙"
+  },
+  {
+    "api_id": 446,
+    "api_name": "二式复战 屠龙 丙型"
+  },
+  {
+    "api_id": 447,
+    "api_name": "零式舰战64型(复座KMX搭载机)"
+  },
+  {
+    "api_id": 449,
+    "api_name": "特大发动艇+一式炮坦克"
+  },
+  {
+    "api_id": 450,
+    "api_name": "13号对空电探改(后期型)"
+  },
+  {
+    "api_id": 451,
+    "api_name": "三式指挥联络机改"
+  },
+  {
+    "api_id": 452,
+    "api_name": "KI96"
+  },
+  {
+    "api_id": 453,
+    "api_name": "KI102乙"
+  },
+  {
+    "api_id": 454,
+    "api_name": "KI102乙改+I号一型乙诱导弹"
+  },
+  {
+    "api_id": 455,
+    "api_name": "试制 长12.7cm联装炮A型改四"
+  },
+  {
+    "api_id": 456,
+    "api_name": "SG 雷达(后期型)"
+  },
+  {
+    "api_id": 457,
+    "api_name": "后期型舰首鱼雷(4门)"
+  },
+  {
+    "api_id": 458,
+    "api_name": "后期型电探&逆探+通气管装备"
+  },
+  {
+    "api_id": 459,
+    "api_name": "B-25"
+  },
+  {
+    "api_id": 460,
+    "api_name": "15m双重测距仪改+21号电探改二+熟练射击指挥所"
+  },
+  {
+    "api_id": 461,
+    "api_name": "熟练听音员+后期型舰首鱼雷(4门)"
+  },
+  {
+    "api_id": 463,
+    "api_name": "15.5cm三联装副炮改二"
+  },
+  {
+    "api_id": 464,
+    "api_name": "10cm联装高角炮群集中部署"
+  },
+  {
+    "api_id": 465,
+    "api_name": "试制51cm三联装炮"
+  },
+  {
+    "api_id": 466,
+    "api_name": "流星改(熟练)"
+  },
+  {
+    "api_id": 467,
+    "api_name": "5inch联装炮(副炮配置) 集中部署"
+  },
+  {
+    "api_id": 468,
+    "api_name": "38cm四联装炮改 deux"
+  },
+  {
+    "api_id": 469,
+    "api_name": "零式水上侦察机11型乙改(夜侦)"
+  },
+  {
+    "api_id": 470,
+    "api_name": "12.7cm联装炮C型改三"
+  },
+  {
+    "api_id": 471,
+    "api_name": "Loire 130M"
+  },
+  {
+    "api_id": 472,
+    "api_name": "Mk.32 对潜鱼雷(Mk.2抛射机)"
+  },
+  {
+    "api_id": 473,
+    "api_name": "F4U-2 Night Corsair"
+  },
+  {
+    "api_id": 474,
+    "api_name": "F4U-4"
+  },
+  {
+    "api_id": 475,
+    "api_name": "AU-1"
+  },
+  {
+    "api_id": 476,
+    "api_name": "F4U-7"
+  },
+  {
+    "api_id": 477,
+    "api_name": "熟练甲板要员"
+  },
+  {
+    "api_id": 478,
+    "api_name": "熟练甲板要员+航空整备员"
+  },
+  {
+    "api_id": 479,
+    "api_name": "Mosquito FB Mk.VI"
+  },
+  {
+    "api_id": 480,
+    "api_name": "Mosquito PR Mk.IV"
+  },
+  {
+    "api_id": 481,
+    "api_name": "Mosquito TR Mk.33"
+  },
+  {
+    "api_id": 482,
+    "api_name": "特大发动艇+Ⅲ号坦克(北非规格)"
+  },
+  {
+    "api_id": 483,
+    "api_name": "三式弹改二"
+  },
+  {
+    "api_id": 484,
+    "api_name": "四式重爆 飞龙(熟练)+I号一型甲 诱导弹"
+  },
+  {
+    "api_id": 485,
+    "api_name": "强风改二"
+  },
+  {
+    "api_id": 486,
+    "api_name": "零式舰战64型(制空战斗机规格)"
+  },
+  {
+    "api_id": 487,
+    "api_name": "零式舰战64型(熟练爆战)"
+  },
+  {
+    "api_id": 488,
+    "api_name": "二式爆雷改二"
+  },
+  {
+    "api_id": 489,
+    "api_name": "一式战 隼II型改(20战队)"
+  },
+  {
+    "api_id": 490,
+    "api_name": "试制 夜间瑞云(攻击装备)"
+  },
+  {
+    "api_id": 491,
+    "api_name": "一式战 隼III型改(熟练/20战队)"
+  },
+  {
+    "api_id": 492,
+    "api_name": "零战52型丙(八幡部队)"
+  },
+  {
+    "api_id": 493,
+    "api_name": "一式陆攻(八幡部队)"
+  },
+  {
+    "api_id": 494,
+    "api_name": "特大发动艇+中三"
+  },
+  {
+    "api_id": 495,
+    "api_name": "特大发动艇+中三改"
+  },
+  {
+    "api_id": 496,
+    "api_name": "陆军步兵部队"
+  },
+  {
+    "api_id": 497,
+    "api_name": "九七式中型坦克(中三)"
+  },
+  {
+    "api_id": 498,
+    "api_name": "九七式中型坦克新炮塔(中三改)"
+  },
+  {
+    "api_id": 499,
+    "api_name": "陆军步兵部队+中三改"
+  },
+  {
+    "api_id": 500,
+    "api_name": "发烟装置(烟幕)"
+  },
+  {
+    "api_id": 501,
+    "api_name": "发烟装置改(烟幕)"
+  },
+  {
+    "api_id": 502,
+    "api_name": "35.6cm联装炮改三(炫目迷彩规格)"
+  },
+  {
+    "api_id": 503,
+    "api_name": "35.6cm联装炮改四"
+  },
+  {
+    "api_id": 504,
+    "api_name": "银河(熟练)"
+  },
+  {
+    "api_id": 505,
+    "api_name": "25mm对空机枪增备"
+  },
+  {
+    "api_id": 506,
+    "api_name": "电探装备桅杆(13号改+22号电探改四)"
+  },
+  {
+    "api_id": 507,
+    "api_name": "14inch/45联装炮"
+  },
+  {
+    "api_id": 508,
+    "api_name": "14inch/45三联装炮"
+  },
+  {
+    "api_id": 509,
+    "api_name": "12cm单装高角炮E型改"
+  },
+  {
+    "api_id": 510,
+    "api_name": "Walrus"
+  },
+  {
+    "api_id": 511,
+    "api_name": "21inch舰首鱼雷发射管4门(初期型)"
+  },
+  {
+    "api_id": 512,
+    "api_name": "21inch舰首鱼雷发射管4门(后期型)"
+  },
+  {
+    "api_id": 513,
+    "api_name": "阻塞气球"
+  },
+  {
+    "api_id": 514,
+    "api_name": "特大发动艇+Ⅲ号坦克J型"
+  },
+  {
+    "api_id": 515,
+    "api_name": "Sea Otter"
+  },
+  {
+    "api_id": 516,
+    "api_name": "Me 262 A-1a/R1"
+  },
+  {
+    "api_id": 517,
+    "api_name": "逆探(E27)+22号对水上电探改四(后期调整型)"
+  },
+  {
+    "api_id": 518,
+    "api_name": "14cm联装炮改二"
+  },
+  {
+    "api_id": 519,
+    "api_name": "SJ雷达+潜艇司令塔装备"
+  },
+  {
+    "api_id": 520,
+    "api_name": "试制20.3cm(4号)联装炮"
+  },
+  {
+    "api_id": 521,
+    "api_name": "紫云(熟练)"
+  },
+  {
+    "api_id": 522,
+    "api_name": "零式小型水上机"
+  },
+  {
+    "api_id": 523,
+    "api_name": "零式小型水上机(熟练)"
+  },
+  {
+    "api_id": 524,
+    "api_name": "12cm单装高角炮+25mm机枪增备"
+  },
+  {
+    "api_id": 525,
+    "api_name": "特四式内火艇"
+  },
+  {
+    "api_id": 526,
+    "api_name": "特四式内火艇改"
+  },
+  {
+    "api_id": 527,
+    "api_name": "Type281 雷达"
+  },
+  {
+    "api_id": 528,
+    "api_name": "Type274 射击管制雷达"
+  },
+  {
+    "api_id": 529,
+    "api_name": "12.7cm联装炮C型改三H"
+  },
+  {
+    "api_id": 530,
+    "api_name": "35.6cm联装炮改三丙"
+  },
+  {
+    "api_id": 531,
+    "api_name": "舰队通信天线"
+  },
+  {
+    "api_id": 532,
+    "api_name": "通信装置&要员"
+  },
+  {
+    "api_id": 533,
+    "api_name": "10cm联装高角炮改+高射装置改"
+  },
+  {
+    "api_id": 534,
+    "api_name": "13.8cm联装炮"
+  },
+  {
+    "api_id": 535,
+    "api_name": "13.8cm联装炮改"
+  },
+  {
+    "api_id": 536,
+    "api_name": "15.2cm三联装主炮"
+  },
+  {
+    "api_id": 537,
+    "api_name": "15.2cm三联装主炮改"
+  },
+  {
+    "api_id": 538,
+    "api_name": "Loire 130M改(熟练)"
+  },
+  {
+    "api_id": 539,
+    "api_name": "SOC Seagull后期型(熟练)"
+  },
+  {
+    "api_id": 540,
+    "api_name": "零式水上侦察机11型甲改二"
+  },
+  {
+    "api_id": 541,
+    "api_name": "SBD(Yellow Wings)"
+  },
+  {
+    "api_id": 542,
+    "api_name": "TBD(Yellow Wings)"
+  },
+  {
+    "api_id": 543,
+    "api_name": "SBD VS-2(侦察飞行队)"
+  },
+  {
+    "api_id": 544,
+    "api_name": "SBD VB-2(轰炸飞行队)"
+  },
+  {
+    "api_id": 545,
+    "api_name": "天山一二型甲改二(村田队/电探装备)"
+  },
+  {
+    "api_id": 546,
+    "api_name": "试制 震电(局地战斗机)"
+  },
+  {
+    "api_id": 547,
+    "api_name": "震电改二(舰战型改二)"
+  },
+  {
+    "api_id": 548,
+    "api_name": "震电改三(试制 喷式震电)"
+  },
+  {
+    "api_id": 549,
+    "api_name": "三式指挥联络机改二"
+  },
+  {
+    "api_id": 550,
+    "api_name": "试制明星(增加试作机)"
+  },
+  {
+    "api_id": 551,
+    "api_name": "明星改"
+  },
+  {
+    "api_id": 552,
+    "api_name": "九九式练爆二二型改(夜间装备实验机)"
+  },
+  {
+    "api_id": 553,
+    "api_name": "10cm联装高角炮改"
+  },
+  {
+    "api_id": 554,
+    "api_name": "九七式舰攻改(北东海军航空队)"
+  },
+  {
+    "api_id": 555,
+    "api_name": "18cm/57三联装主炮"
+  },
+  {
+    "api_id": 556,
+    "api_name": "10cm/56单装高角炮(集中部署)"
+  },
+  {
+    "api_id": 557,
+    "api_name": "零式舰战62型改(夜间爆战)"
+  },
+  {
+    "api_id": 558,
+    "api_name": "零式舰战62型改(熟练/夜间爆战)"
+  },
+  {
+    "api_id": 559,
+    "api_name": "Ju87 D-4(Fliegerass)"
+  },
+  {
+    "api_id": 560,
+    "api_name": "Bf109 T-3(G)"
+  },
+  {
+    "api_id": 561,
+    "api_name": "Ho229"
+  },
+  {
+    "api_id": 562,
+    "api_name": "Do 217 E-5+TV引导型 Hs293D"
+  },
+  {
+    "api_id": 564,
+    "api_name": "21cm单装主炮"
+  },
+  {
+    "api_id": 565,
+    "api_name": "15cm单装副炮"
+  },
+  {
+    "api_id": 566,
+    "api_name": "10.2cm三联装副炮"
+  },
+  {
+    "api_id": 567,
+    "api_name": "Sea Gladiator"
+  },
+  {
+    "api_id": 568,
+    "api_name": "强风改二(熟练)"
+  },
+  {
+    "api_id": 569,
+    "api_name": "三式爆雷投射机改"
+  },
+  {
+    "api_id": 570,
+    "api_name": "流星改(友永队)"
+  },
+  {
+    "api_id": 571,
+    "api_name": "53cm联装鱼雷改(氧气鱼雷)"
+  },
+  {
+    "api_id": 572,
+    "api_name": "12.7cm单装高角炮改三"
+  },
+  {
+    "api_id": 573,
+    "api_name": "试制 23号电探改三"
+  },
+  {
+    "api_id": 574,
+    "api_name": "SC雷达改(后期调整型)"
+  },
+  {
+    "api_id": 575,
+    "api_name": "25mm联装机枪(熟练机枪员分队)"
+  },
+  {
+    "api_id": 576,
+    "api_name": "大发动艇(R35&法国兵)"
+  },
+  {
+    "api_id": 577,
+    "api_name": "61cm四联装(氧气)鱼雷五型改三"
+  },
+  {
+    "api_id": 578,
+    "api_name": "SB2U-2"
+  },
+  {
+    "api_id": 579,
+    "api_name": "13.8cm单装炮 Modèle 1927"
+  },
+  {
+    "api_id": 580,
+    "api_name": "55cm三联装鱼雷 Modèle 1924"
+  },
+  {
+    "api_id": 581,
+    "api_name": "55cm复合配置五联装鱼雷 Modèle 1932"
+  },
+  {
+    "api_id": 582,
+    "api_name": "20.3cm/50 联装炮 Modèle 1931"
+  },
+  {
+    "api_id": 583,
+    "api_name": "20.3cm/50 联装炮改(SHS改良弹)"
+  },
+  {
+    "api_id": 584,
+    "api_name": "Bofors 12cm单装两用炮"
+  },
+  {
+    "api_id": 585,
+    "api_name": "PL101(侦察)"
+  },
+  {
+    "api_id": 586,
+    "api_name": "PL101(爆装)"
+  },
+  {
+    "api_id": 587,
+    "api_name": "V-156F(SB2U输出型)"
+  },
+  {
+    "api_id": 588,
+    "api_name": "G-36A(F4F输出型)"
+  },
+  {
+    "api_id": 1501,
+    "api_name": "5inch单装炮"
+  },
+  {
+    "api_id": 1502,
+    "api_name": "5inch联装炮"
+  },
+  {
+    "api_id": 1503,
+    "api_name": "3inch单装高角炮"
+  },
+  {
+    "api_id": 1504,
+    "api_name": "5inch单装高射炮"
+  },
+  {
+    "api_id": 1505,
+    "api_name": "8inch三联装炮"
+  },
+  {
+    "api_id": 1506,
+    "api_name": "6inch联装速射炮"
+  },
+  {
+    "api_id": 1507,
+    "api_name": "14inch联装炮"
+  },
+  {
+    "api_id": 1508,
+    "api_name": "16inch联装炮"
+  },
+  {
+    "api_id": 1509,
+    "api_name": "16inch三联装炮"
+  },
+  {
+    "api_id": 1510,
+    "api_name": "5inch单装高射炮"
+  },
+  {
+    "api_id": 1511,
+    "api_name": "6inch单装炮"
+  },
+  {
+    "api_id": 1512,
+    "api_name": "12.5inch联装副炮"
+  },
+  {
+    "api_id": 1513,
+    "api_name": "21inch鱼雷前期型"
+  },
+  {
+    "api_id": 1514,
+    "api_name": "21inch鱼雷后期型"
+  },
+  {
+    "api_id": 1515,
+    "api_name": "高速深海鱼雷"
+  },
+  {
+    "api_id": 1516,
+    "api_name": "深海栖舰攻"
+  },
+  {
+    "api_id": 1517,
+    "api_name": "深海栖舰攻 Mark.II"
+  },
+  {
+    "api_id": 1518,
+    "api_name": "深海栖舰攻 Mark.III"
+  },
+  {
+    "api_id": 1519,
+    "api_name": "深海栖舰战"
+  },
+  {
+    "api_id": 1520,
+    "api_name": "深海栖舰战 Mark.II"
+  },
+  {
+    "api_id": 1521,
+    "api_name": "深海栖舰战 Mark.III"
+  },
+  {
+    "api_id": 1522,
+    "api_name": "飞鱼舰战"
+  },
+  {
+    "api_id": 1523,
+    "api_name": "深海栖舰爆"
+  },
+  {
+    "api_id": 1524,
+    "api_name": "深海栖舰爆 Mark.II"
+  },
+  {
+    "api_id": 1525,
+    "api_name": "深海栖舰侦察机"
+  },
+  {
+    "api_id": 1526,
+    "api_name": "飞鱼侦察机"
+  },
+  {
+    "api_id": 1527,
+    "api_name": "对空雷达 Mark.I"
+  },
+  {
+    "api_id": 1528,
+    "api_name": "水上雷达 Mark.I"
+  },
+  {
+    "api_id": 1529,
+    "api_name": "水上雷达 Mark.II"
+  },
+  {
+    "api_id": 1530,
+    "api_name": "对空雷达 Mark.II"
+  },
+  {
+    "api_id": 1531,
+    "api_name": "深海水上雷达"
+  },
+  {
+    "api_id": 1532,
+    "api_name": "深海对空雷达"
+  },
+  {
+    "api_id": 1533,
+    "api_name": "改良型深海涡轮"
+  },
+  {
+    "api_id": 1534,
+    "api_name": "强化型深海锅炉"
+  },
+  {
+    "api_id": 1535,
+    "api_name": "对空散弹"
+  },
+  {
+    "api_id": 1536,
+    "api_name": "劣化穿甲弹"
+  },
+  {
+    "api_id": 1537,
+    "api_name": "12.7mm机枪"
+  },
+  {
+    "api_id": 1538,
+    "api_name": "20mm机枪"
+  },
+  {
+    "api_id": 1539,
+    "api_name": "40mm双联装机关炮"
+  },
+  {
+    "api_id": 1540,
+    "api_name": "40mm四联装机关炮"
+  },
+  {
+    "api_id": 1541,
+    "api_name": "深海乌贼鱼雷"
+  },
+  {
+    "api_id": 1542,
+    "api_name": "深海深弹投射机"
+  },
+  {
+    "api_id": 1543,
+    "api_name": "深海声呐"
+  },
+  {
+    "api_id": 1544,
+    "api_name": "深海深弹投射机 Mk.II"
+  },
+  {
+    "api_id": 1545,
+    "api_name": "深海声呐 Mk.II"
+  },
+  {
+    "api_id": 1546,
+    "api_name": "飞鱼舰爆"
+  },
+  {
+    "api_id": 1547,
+    "api_name": "深海猫舰战"
+  },
+  {
+    "api_id": 1548,
+    "api_name": "深海地狱舰爆"
+  },
+  {
+    "api_id": 1549,
+    "api_name": "深海复仇舰攻"
+  },
+  {
+    "api_id": 1550,
+    "api_name": "5inch联装两用荚炮"
+  },
+  {
+    "api_id": 1551,
+    "api_name": "20inch联装炮"
+  },
+  {
+    "api_id": 1552,
+    "api_name": "15inch要塞炮"
+  },
+  {
+    "api_id": 1553,
+    "api_name": "4inch联装两用炮+CIC"
+  },
+  {
+    "api_id": 1554,
+    "api_name": "深海水上攻击机"
+  },
+  {
+    "api_id": 1555,
+    "api_name": "深海水上攻击机改"
+  },
+  {
+    "api_id": 1556,
+    "api_name": "深海猫舰战改"
+  },
+  {
+    "api_id": 1557,
+    "api_name": "深海地狱舰爆改"
+  },
+  {
+    "api_id": 1558,
+    "api_name": "深海复仇舰攻改"
+  },
+  {
+    "api_id": 1559,
+    "api_name": "深海FCS+CIC"
+  },
+  {
+    "api_id": 1560,
+    "api_name": "深海探照灯"
+  },
+  {
+    "api_id": 1561,
+    "api_name": "深海解放陆爆"
+  },
+  {
+    "api_id": 1562,
+    "api_name": "深海解放陆爆Ace"
+  },
+  {
+    "api_id": 1563,
+    "api_name": "8inch长射程联装炮"
+  },
+  {
+    "api_id": 1564,
+    "api_name": "深海水上侦察观测机"
+  },
+  {
+    "api_id": 1565,
+    "api_name": "5inch沿岸设置炮"
+  },
+  {
+    "api_id": 1566,
+    "api_name": "深海猫舰战(爆装)"
+  },
+  {
+    "api_id": 1567,
+    "api_name": "沿岸设置雷达"
+  },
+  {
+    "api_id": 1568,
+    "api_name": "16inch三联装炮"
+  },
+  {
+    "api_id": 1569,
+    "api_name": "深海侦察飞行艇"
+  },
+  {
+    "api_id": 1570,
+    "api_name": "高速深海鱼雷 mod.2"
+  },
+  {
+    "api_id": 1571,
+    "api_name": "深海水母小鬼机"
+  },
+  {
+    "api_id": 1572,
+    "api_name": "深海熊猫舰战"
+  },
+  {
+    "api_id": 1573,
+    "api_name": "深海潜水浮筒机"
+  },
+  {
+    "api_id": 1574,
+    "api_name": "深海攻击哨戒鹰"
+  },
+  {
+    "api_id": 1575,
+    "api_name": "深海攻击哨戒鹰改"
+  },
+  {
+    "api_id": 1576,
+    "api_name": "深海12inch三联装炮"
+  },
+  {
+    "api_id": 1577,
+    "api_name": "深海15inch四联装炮"
+  },
+  {
+    "api_id": 1578,
+    "api_name": "深海15inch联装炮后期型"
+  },
+  {
+    "api_id": 1579,
+    "api_name": "深海14inch海峡联装炮"
+  },
+  {
+    "api_id": 1580,
+    "api_name": "深海伏击鱼雷"
+  },
+  {
+    "api_id": 1581,
+    "api_name": "夜猫深海舰战"
+  },
+  {
+    "api_id": 1582,
+    "api_name": "夜深海舰爆"
+  },
+  {
+    "api_id": 1583,
+    "api_name": "夜复仇深海舰攻"
+  },
+  {
+    "api_id": 1584,
+    "api_name": "深海14inch联装炮改"
+  },
+  {
+    "api_id": 1585,
+    "api_name": "深海16inch三联装炮改"
+  },
+  {
+    "api_id": 1586,
+    "api_name": "深海攻击哨戒鹰改二"
+  },
+  {
+    "api_id": 1587,
+    "api_name": "深海16inch三联装炮改二"
+  },
+  {
+    "api_id": 1588,
+    "api_name": "深海5inch联装炮C型"
+  },
+  {
+    "api_id": 1589,
+    "api_name": "深海5.5inch联装炮改"
+  },
+  {
+    "api_id": 1590,
+    "api_name": "深海靶标"
+  },
+  {
+    "api_id": 1591,
+    "api_name": "深海5inch单装炮 Mk.30"
+  },
+  {
+    "api_id": 1592,
+    "api_name": "深海16inch Mk.VIII联装炮改"
+  },
+  {
+    "api_id": 1593,
+    "api_name": "高速深海鱼雷 mod.3"
+  },
+  {
+    "api_id": 1594,
+    "api_name": "深海空要塞(侦察型)"
+  },
+  {
+    "api_id": 1595,
+    "api_name": "深海空要塞Ace(侦察型)"
+  },
+  {
+    "api_id": 1596,
+    "api_name": "深海6inch三联装新型速射炮"
+  },
+  {
+    "api_id": 1597,
+    "api_name": "深海空要塞(重爆型)"
+  },
+  {
+    "api_id": 1598,
+    "api_name": "深海空要塞Ace(重爆型)"
+  },
+  {
+    "api_id": 1599,
+    "api_name": "深海4.7inch炮 Mk.XII"
+  },
+  {
+    "api_id": 1600,
+    "api_name": "深海8inch联装速射炮"
+  },
+  {
+    "api_id": 1601,
+    "api_name": "深海8inch三联装炮 Mk.9"
+  },
+  {
+    "api_id": 1602,
+    "api_name": "深海5inch联装两用炮(集中部署)"
+  },
+  {
+    "api_id": 1603,
+    "api_name": "深海对空雷达Mark.III+FCS"
+  },
+  {
+    "api_id": 1604,
+    "api_name": "深海5inch联装炮A型"
+  },
+  {
+    "api_id": 1605,
+    "api_name": "深海潜艇搭载电子兵装"
+  },
+  {
+    "api_id": 1606,
+    "api_name": "深海5inch单装高角炮改二"
+  },
+  {
+    "api_id": 1607,
+    "api_name": "深海5inch联装高角炮改二"
+  },
+  {
+    "api_id": 1608,
+    "api_name": "深海夜间航空作战装备"
+  },
+  {
+    "api_id": 1609,
+    "api_name": "深海16inch三联装炮 Mk6"
+  },
+  {
+    "api_id": 1610,
+    "api_name": "深海海鸥水侦"
+  },
+  {
+    "api_id": 1611,
+    "api_name": "深海海猫水侦"
+  },
+  {
+    "api_id": 1612,
+    "api_name": "深海6inch三联装主炮 Mk.16"
+  },
+  {
+    "api_id": 1613,
+    "api_name": "地中海12inch/46 联装炮"
+  },
+  {
+    "api_id": 1614,
+    "api_name": "地中海12inch/46 三联装炮"
+  },
+  {
+    "api_id": 1615,
+    "api_name": "地中海12.6inch/44 联装炮"
+  },
+  {
+    "api_id": 1616,
+    "api_name": "地中海12.6inch/44 三联装炮"
+  },
+  {
+    "api_id": 1617,
+    "api_name": "夜猫深海舰战II"
+  },
+  {
+    "api_id": 1618,
+    "api_name": "夜深海舰爆II"
+  },
+  {
+    "api_id": 1619,
+    "api_name": "夜复仇深海舰攻II"
+  },
+  {
+    "api_id": 1620,
+    "api_name": "深海战爆双座鹰"
+  },
+  {
+    "api_id": 1621,
+    "api_name": "深海战爆双座鹰改"
+  },
+  {
+    "api_id": 1622,
+    "api_name": "深海四联装(氧气)鱼雷后期型"
+  },
+  {
+    "api_id": 1623,
+    "api_name": "深海5inch联装炮D型"
+  },
+  {
+    "api_id": 1624,
+    "api_name": "深海五联装(氧气)鱼雷后期型"
+  },
+  {
+    "api_id": 1625,
+    "api_name": "深海双发陆爆"
+  },
+  {
+    "api_id": 1626,
+    "api_name": "深海双发陆爆Ace"
+  },
+  {
+    "api_id": 1627,
+    "api_name": "深海5inch联装炮C型"
+  },
+  {
+    "api_id": 1630,
+    "api_name": "深海空超要塞"
+  },
+  {
+    "api_id": 1631,
+    "api_name": "深海空超要塞改"
+  },
+  {
+    "api_id": 1632,
+    "api_name": "深海航空整备虫"
+  },
+  {
+    "api_id": 1633,
+    "api_name": "深海航空整备虫pro"
+  },
+  {
+    "api_id": 1634,
+    "api_name": "深海舾装水上通用袭击机"
+  },
+  {
+    "api_id": 1635,
+    "api_name": "深海突破袭击机"
+  },
+  {
+    "api_id": 1636,
+    "api_name": "深海突破袭击机Ace"
+  },
+  {
+    "api_id": 1637,
+    "api_name": "沿岸突击半潜鱼雷艇"
+  },
+  {
+    "api_id": 1638,
+    "api_name": "深海3inch单装高角炮+甲板机枪"
+  },
+  {
+    "api_id": 1639,
+    "api_name": "深海水中探信仪 & 深海调整电探"
+  },
+  {
+    "api_id": 1640,
+    "api_name": "深海观测阻塞气球"
+  },
+  {
+    "api_id": 1641,
+    "api_name": "深海标准14inch/45 联装炮"
+  },
+  {
+    "api_id": 1642,
+    "api_name": "深海标准14inch/45 三联装炮"
+  },
+  {
+    "api_id": 1643,
+    "api_name": "深海3.7cm FlaK"
+  },
+  {
+    "api_id": 1644,
+    "api_name": "深海5inch单装炮 Mk.30+GFCS"
+  },
+  {
+    "api_id": 1645,
+    "api_name": "深海533mm 5联装鱼雷+深海SG"
+  },
+  {
+    "api_id": 1646,
+    "api_name": "深海Hedgehog Mk.10"
+  },
+  {
+    "api_id": 1647,
+    "api_name": "GFCS+深海5inch联装炮 Mk.32"
+  },
+  {
+    "api_id": 1648,
+    "api_name": "深海反潜旋翼海鸥"
+  },
+  {
+    "api_id": 1649,
+    "api_name": "15.2cm深海三联装炮"
+  },
+  {
+    "api_id": 1650,
+    "api_name": "深海野牛舰战 Mk.II"
+  },
+  {
+    "api_id": 1651,
+    "api_name": "深海不屈舰爆 Mk.II"
+  },
+  {
+    "api_id": 1652,
+    "api_name": "深海打击舰攻 Mk.II"
+  },
+  {
+    "api_id": 1653,
+    "api_name": "深海5inch联装炮 Mk.30+GFCS"
+  },
+  {
+    "api_id": 1654,
+    "api_name": "深海18cm三联装炮+深海SG"
+  },
+  {
+    "api_id": 1655,
+    "api_name": "深海8.25inch单装主炮"
+  },
+  {
+    "api_id": 1656,
+    "api_name": "深海6inch副炮群"
+  },
+  {
+    "api_id": 1657,
+    "api_name": "深海4inch三联装副炮"
+  },
+  {
+    "api_id": 1658,
+    "api_name": "深海28.3cm L/52 三联装炮"
+  },
+  {
+    "api_id": 1659,
+    "api_name": "深海20.3cm SHS联装炮"
+  }
+]
