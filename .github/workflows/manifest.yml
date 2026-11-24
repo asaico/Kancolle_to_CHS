@@ -1,0 +1,64 @@
+name: Generate manifest.json
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "text/**"
+      - "cache/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Generate manifest.json
+        run: |
+          python3 - <<'EOF'
+          import hashlib, json, os, subprocess
+          from datetime import datetime, timezone
+
+          sha = subprocess.check_output(["git", "rev-parse", "--short", "HEAD"], text=True).strip()
+          date_str = datetime.now(timezone.utc).strftime("%Y.%m.%d")
+          entries = []
+
+          for root_name in ("text", "cache"):
+              if not os.path.isdir(root_name):
+                  continue
+              for dirpath, _, filenames in os.walk(root_name):
+                  for name in filenames:
+                      if name.startswith("."):
+                          continue
+                      rel = os.path.join(dirpath, name).replace("\\", "/")
+                      if rel.startswith("text/text/subtitles/"):
+                          continue
+                      h = hashlib.sha256()
+                      with open(rel, "rb") as f:
+                          for chunk in iter(lambda: f.read(65536), b""):
+                              h.update(chunk)
+                      entries.append({
+                          "path": rel,
+                          "size": os.path.getsize(rel),
+                          "sha256": h.hexdigest(),
+                      })
+
+          entries.sort(key=lambda x: x["path"])
+          manifest = {"version": f"{date_str}-{sha}", "files": entries}
+          with open("manifest.json", "w", encoding="utf-8") as out:
+              json.dump(manifest, out, ensure_ascii=False, separators=(",", ":"))
+          EOF
+
+      - name: Commit manifest.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manifest.json
+          git diff --cached --quiet || git commit -m "chore: update manifest.json"
+          git push
